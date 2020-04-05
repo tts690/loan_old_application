@@ -1,0 +1,127 @@
+[18-Aug-2016 18:58:59 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on a non-object in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Aug-2016 14:12:03 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/democp569/public_html/application/models/Auth.php on line 31
+[19-Aug-2016 14:12:35 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/democp569/public_html/application/models/Auth.php on line 31
+[19-Aug-2016 14:12:45 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/democp569/public_html/application/models/Auth.php on line 31
+[19-Aug-2016 14:14:18 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/democp569/public_html/application/models/Auth.php on line 31
+[19-Aug-2016 14:14:23 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/democp569/public_html/application/models/Auth.php on line 31
+[19-Aug-2016 14:14:37 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/democp569/public_html/application/models/Auth.php on line 31
+[19-Aug-2016 15:45:28 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/democp569/public_html/application/models/Auth.php on line 32
+[19-Aug-2016 16:49:34 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:38:49 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:38:50 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:38:59 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:39:00 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:39:07 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:39:13 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:39:13 Asia/Calcutta] PHP Fatal error:  Call to a member function query() on boolean in /home/democp569/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[23-Aug-2016 11:43:02 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_states/states_edit.php on line 42
+[23-Aug-2016 11:43:10 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_states/states_edit.php on line 42
+[23-Aug-2016 12:11:38 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_states/states_edit.php on line 42
+[23-Aug-2016 13:04:53 Asia/Calcutta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/democp569/public_html/application/models/admin/G_swapping.php on line 16
+[23-Aug-2016 13:04:56 Asia/Calcutta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/democp569/public_html/application/models/admin/G_swapping.php on line 16
+[23-Aug-2016 13:07:41 Asia/Calcutta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/democp569/public_html/application/models/admin/Manage_States/State_bank_settings.php on line 26
+[23-Aug-2016 13:07:54 Asia/Calcutta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/democp569/public_html/application/models/admin/Manage_States/State_bank_settings.php on line 26
+[26-Sep-2016 08:26:58 UTC] PHP Fatal error:  Class 'Admin_Controller' not found in /home/democp569/public_html/application/controllers/admin/Signin.php on line 9
+[26-Sep-2016 08:27:58 UTC] PHP Fatal error:  Class 'Admin_Controller' not found in /home/democp569/public_html/application/controllers/admin/Signin.php on line 9
+[26-Sep-2016 08:29:06 UTC] PHP Fatal error:  Class 'Admin_Controller' not found in /home/democp569/public_html/application/controllers/admin/Signin.php on line 9
+[26-Sep-2016 08:29:16 UTC] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/democp569/public_html/application/controllers/Welcome.php on line 3
+[26-Sep-2016 08:29:57 UTC] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/democp569/public_html/application/controllers/Welcome.php on line 3
+[26-Sep-2016 08:31:00 UTC] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/democp569/public_html/application/controllers/Welcome.php on line 3
+[26-Sep-2016 08:31:21 UTC] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/democp569/public_html/application/controllers/Welcome.php on line 3
+[26-Sep-2016 08:31:48 UTC] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/democp569/public_html/application/controllers/Welcome.php on line 3
+[26-Sep-2016 08:31:51 UTC] PHP Fatal error:  Class 'Frontend_Controller' not found in /home/democp569/public_html/application/controllers/Welcome.php on line 3
+[26-Sep-2016 14:18:17 Asia/Calcutta] PHP Fatal error:  Call to a member function authenticate() on null in /home/democp569/public_html/application/controllers/admin/Signin.php on line 34
+[26-Sep-2016 14:22:29 Asia/Calcutta] PHP Fatal error:  Call to a member function authenticate() on null in /home/democp569/public_html/application/controllers/admin/Signin.php on line 34
+[26-Sep-2016 14:52:50 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 14:53:00 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 14:53:07 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 14:53:53 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 15:15:11 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 15:15:25 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 15:19:44 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 16:04:05 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 16:17:24 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 16:17:40 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 16:26:56 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 16:34:45 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 16:38:50 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 17:19:19 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 17:19:26 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/Manage_Interest_rate/Interest_rate_settings.php on line 19
+[26-Sep-2016 18:44:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[26-Sep-2016 18:44:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[26-Sep-2016 18:44:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[26-Sep-2016 18:46:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[26-Sep-2016 18:48:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[26-Sep-2016 18:50:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[26-Sep-2016 18:50:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[26-Sep-2016 18:53:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[26-Sep-2016 19:57:51 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[26-Sep-2016 22:18:14 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[26-Sep-2016 22:18:15 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[27-Sep-2016 10:52:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 10:56:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 10:58:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[27-Sep-2016 10:59:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[27-Sep-2016 11:05:07 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[27-Sep-2016 11:05:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/File_Status_create.php on line 43
+[27-Sep-2016 11:19:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 11:20:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 11:22:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 11:23:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 11:23:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 11:24:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[27-Sep-2016 11:34:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''); ?>" method="POST">' (T_CONSTANT_ENCAPSED_STRING) in /home/democp569/public_html/application/views/admin/file_status_master/file_status_create.php on line 43
+[29-Sep-2016 05:12:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/democp569/public_html/application/controllers/admin/manage_mails/send_mail/Sending_Mail.php on line 44
+[29-Sep-2016 05:12:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/democp569/public_html/application/controllers/admin/manage_mails/send_mail/Sending_Mail.php on line 44
+[29-Sep-2016 05:12:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/democp569/public_html/application/controllers/admin/manage_mails/send_mail/Sending_Mail.php on line 44
+[29-Sep-2016 05:13:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/democp569/public_html/application/controllers/admin/manage_mails/send_mail/Sending_Mail.php on line 44
+[29-Sep-2016 05:13:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/democp569/public_html/application/controllers/admin/manage_mails/send_mail/Sending_Mail.php on line 44
+[03-Oct-2016 13:20:21 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/democp569/public_html/application/helpers/app_helper.php on line 7
+[03-Oct-2016 13:20:24 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/democp569/public_html/application/helpers/app_helper.php on line 7
+[03-Oct-2016 13:20:25 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/democp569/public_html/application/helpers/app_helper.php on line 7
+[03-Oct-2016 13:20:26 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/democp569/public_html/application/helpers/app_helper.php on line 7
+[03-Oct-2016 13:20:33 Asia/Calcutta] PHP Fatal error:  Using $this when not in object context in /home/democp569/public_html/application/helpers/app_helper.php on line 7
+[03-Oct-2016 07:52:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Signin.php on line 14
+[03-Oct-2016 07:52:36 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Signin.php on line 14
+[03-Oct-2016 07:53:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Signin.php on line 14
+[03-Oct-2016 07:53:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Signin.php on line 14
+[03-Oct-2016 07:54:10 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/democp569/public_html/application/controllers/employee/Signin.php on line 14
+[03-Oct-2016 07:54:11 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/democp569/public_html/application/controllers/employee/Signin.php on line 14
+[03-Oct-2016 11:03:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:03:43 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:03:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:04:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:04:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:10:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:10:23 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:11:28 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:12:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:12:08 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:12:09 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:13:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 11:13:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home/democp569/public_html/application/controllers/employee/Dashboard.php on line 7
+[03-Oct-2016 18:21:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[03-Oct-2016 18:21:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[03-Oct-2016 18:21:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[03-Oct-2016 18:21:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[03-Oct-2016 18:21:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[03-Oct-2016 18:39:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[03-Oct-2016 18:39:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[03-Oct-2016 18:40:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/democp569/public_html/application/config/textmagic.php on line 6
+[09-Oct-2016 16:00:56 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[09-Oct-2016 16:01:59 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[13-Oct-2016 09:51:50 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 09:51:56 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 09:51:59 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 09:53:15 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 09:56:58 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 10:14:01 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 10:14:08 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 10:19:38 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/home-loan-faq.php on line 88
+[13-Oct-2016 11:07:23 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[13-Oct-2016 11:12:57 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[13-Oct-2016 11:13:33 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[13-Oct-2016 11:13:39 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[13-Oct-2016 11:13:55 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[13-Oct-2016 11:14:24 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/views/admin/manage_interest_rate/interest_rate_edit.php on line 44
+[13-Oct-2016 12:06:40 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/democp569/public_html/application/models/admin/bank/Bank_setup.php on line 111

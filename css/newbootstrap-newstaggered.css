@@ -1,0 +1,7075 @@
+.news-tagger-salary-deposited .recommendedSearchImg {
+	height:20px!important;
+	width:20px!important
+}
+.news-tagger-btn .pointing-arrow.dontshow {
+	display:none!important
+}
+body {
+	font-size:14px
+}
+.row {
+	margin:0
+}
+.container, .col-md-4 {
+	/*padding:0*/
+}
+.navbar-toggle {
+	margin:0
+}
+.news-tagger .row {
+	margin:0
+}
+.news-tagger .container, .news-tagger .col-md-4 {
+	padding:0
+}
+.news-tagger-heading {
+	background:#FB6C2B;
+	padding:25px 0 !important;
+	position:relative
+}
+.news-tagger-heading img {
+	left:-39px;
+	position:absolute;
+	top:0
+}
+.news-tagger {
+	background:none repeat scroll 0 0 #FFF;
+	color:#fff;
+	clear:both;
+	min-height:538px;
+	overflow: hidden;
+}
+.news-tagger h3 {
+	font-size:26px;
+	text-align:center;
+	font-weight:400;
+	margin:19px 0;
+	color:#000
+}
+.news-tagger .contact-head {
+	font-size:26px;
+	text-align:center;
+	font-weight:400;
+	margin:0
+}
+.news-tagger #prev_resident_city h3 {
+	margin:13px 0 20px
+}
+.news-tagger .news-tagger-title {
+	margin:60px 0 58px 0
+}
+.news-tagger .city-name, .news-tagger .bank-name, .news-tagger .car-name {
+	color:#000;
+	font-size:16px;
+	margin:10px 0 0;
+	font-weight:bold;
+	display:block;
+	line-height:20px
+}
+.news-tagger .bank-name {
+	height:38px
+}
+.news-tagger .col-md-2 {
+	text-align:center;
+	border-right:0 solid #fff;
+	padding:0
+}
+.news-tagger .last-col-md-2, .news-tagger-salary-deposited .last-col-md-2 {
+	border-right:0 solid #ccc
+}
+.news-tagger .last-col-md-2 h5 {
+	padding:58px 0
+}
+.news-tagger .news-tagger-cc .last-col-md-2 h5 {
+	padding:0
+}
+.news-tagger .news-tagger-cc .last-col-md-2 .icon-bank {
+	background:transparent
+}
+.news-tagger .container {
+	position:relative;
+	overflow:visible
+}
+.news-tagger-salary-deposited .col-md-2 h5 {
+	height:50px
+}
+.news-tagger-salary-deposited .col-md-12 {
+	overflow:hidden
+}
+.news-tagger-salary-deposited .last-col-md-2 h5 {
+	padding:0
+}
+.news-tagger-title-grn h3 {
+	color:#16a085;
+	font-size:20px;
+	margin:35px 0 0;
+	line-height:30px
+}
+.news-tagger .news-tagger-contact {
+	margin:20px 0 0;
+	padding-top:0
+}
+.news-tagger .hasDatepicker {
+	clear:both
+}
+.news-tagger-help, .mobile-news-tagger-help {
+	text-decoration:none
+}
+.news-tagger-help-txt {
+	text-decoration:underline;
+	color:#34495e;
+	font-size:14px
+}
+.back-button {
+	position:absolute;
+	bottom:0;
+	top:20px;
+	min-width:10px;
+	z-index:10000;
+	left:0
+}
+.news-tagger-net-salary .input-group, .news-tagger-emi .input-group, .news-tagger-cc-gti .input-group {
+	width:300px;
+	margin:0 auto
+}
+.news-tagger-net-salary .form-inline .col-md-12, .news-tagger-emi .form-inline .col-md-12, .news-tagger-contact .form-horizontal .col-md-12, .news-tagger-cc-gti .form-inline .col-md-12 {
+	padding-left:0;
+	padding-right:0;
+	overflow:hidden
+}
+.news-tagger-net-salary .form-group, .news-tagger-emi .form-group, .curent_city .col-md-12, .news-tagger-cc-gti .form-group {
+	display:block
+}
+.carousel-inner {
+	overflow:visible;
+	font-size:14px;
+	font-weight:500
+}
+.twitter-typeahead .tt-query, .twitter-typeahead .tt-hint {
+	height:50px
+}
+.news-tagger-exp {
+	width:320px;
+	margin:0 auto
+}
+.checkbox .icons, .radio .icons {
+	font-size:16px
+}
+.contact-less-tab fieldset {
+	padding:5px 0
+}
+.news-tagger-net-salary .btn, .news-tagger-emi .btn, .news-tagger-cc-gti .btn {
+	margin:0
+}
+.news-tagger .news-tagger-container .news-tagger-help-md-4 {
+	/*padding:10px*/
+}
+.news-tagger-date-picker {
+	border-radius:10px;
+	overflow:hidden
+}
+.news-tagger .radio, .checkbox {
+	display:block;
+	margin:0
+}
+.news-tagger .radio, .checkbox {
+	display:block;
+	margin:0
+}
+.news-tagger-content {
+	clear:both;
+	margin:0;
+	/*padding-top:20px*/
+}
+.news-tagger-res .news-tagger-content {
+	padding-top:34px
+}
+.news-tagger-age .news-tagger-content {
+	padding-top:0
+}
+.news-tagger-btn {
+	overflow:hidden;
+	padding:20px 0
+}
+.contactMe .news-tagger-btn {
+	padding:0
+}
+.news-tagger-btn label {
+	font-weight:bold
+}
+.mobile-news-tagger-other-city, .mobile-column-mo {
+	display:none
+}
+.mobile-news-tagger-other-city {
+	overflow:hidden
+}
+.mobile-news-tagger-other-city input {
+	border:2px solid #1abc9c;
+	color:#1abc9c;
+	text-align:right;
+	margin:10px 0 auto;
+	width:290px;
+	margin:0 auto
+}
+.mobile-news-tagger-other-city input.error {
+	border:2px solid #f00
+}
+.news-tagger .mobile-news-tagger-other-city h5 {
+	margin:0 0 10px 0
+}
+.error .first-icon.fui-radio-unchecked {
+	color:#f00
+}
+.error.radio.checked .second-icon {
+	color:#f00
+}
+.news-tagger-container .basic-required-text {
+	margin:0;
+	width:100%
+}
+.dropdown-style {
+	border-radius:6px;
+	font-size:22px;
+	height:53px;
+	line-height:1.318;
+	padding:10px 16px
+}
+.news-tagger-sub-head {
+	border-radius:6px;
+	margin:0 auto 15px
+}
+.news-tagger-sub-head h3 {
+	margin:0;
+	padding:0
+}
+.news-tagger-bg, .mobile-column-mo .col-xs-4 .news-tagger-bg {
+	background:#f1c40f;
+	border:0 solid #f5deb3;
+	box-shadow:2px 0 2px #696969 inset;
+	color:#fff
+}
+.news-tagger-bg-error {
+	background:#f00;
+	border:2px solid #f00
+}
+.input-group .ns-other-city-input, .news-tagger-input, .input-group .ns-other-city-input:focus, .news-tagger-input:focus {
+	background:#fff!important;
+	box-shadow:0 0 2px #696969 inset!important;
+	border:0 none;
+	height:55px !important;
+	border:0px !important
+}
+.news-tagger-city {
+	/*width:800px;*/
+	margin: 0 auto !important;
+}
+.news-tagger .news-tagger-other-city select {
+	height:32px;
+	padding:8px
+}
+.input-error, .news-tagger-dob .input-error {
+	border:2px solid #f00;
+	color:#f00;
+	font-size:20px
+}
+.margin-top-btm-20 {
+	margin:20px 0
+}
+.text-center {
+	text-align:center;
+	position:relative
+}
+.icon-car, .icon-city, .icon-bank {
+	width:132px
+}
+.pl-salary-account {
+	margin:0 auto;
+	float:none
+}
+.pl-salary-account .icon-bank {
+	width:100%
+}
+.news-tagger-list .list-group-item {
+	float:left;
+	width:50%;
+	border-left:0 solid #ddd;
+	border-radius:0;
+	text-align:left;
+	cursor:pointer;
+	padding:9px;
+	height:50px;
+	color:#34495e;
+	line-height:27px
+}
+.news-tagger-list .list-group-item:hover {
+	background:#c8c8c8
+}
+.news-tagger-list .news-tagger-bg-without-border, .news-tagger-list .news-tagger-bg-without-border:hover {
+	background:#40e0d0;
+	color:#fff
+}
+.news-tagger-list {
+	font-size:14px;
+	margin:0 auto 15px;
+	overflow:hidden;
+	width:450px;
+	border-radius:6px;
+	border:1px solid #ddd;
+	border-top:0 solid #ddd;
+	border-right:0 solid #ddd;
+	border-bottom:0 solid #ddd
+}
+.news-tagger-list .list-group {
+	margin-bottom:0
+}
+.news-tagger .news-tagger-contact h3 {
+	font-size:20px;
+	text-align:right;
+	margin:10px;
+	text-align:right
+}
+.news-tagger .news-tagger-contact .mobile-no-display h3 {
+	text-align:left
+}
+.news-tagger .news-tagger-contact h3 span {
+	color:#1abc9c
+}
+.privacy p, .privacy-mobile p {
+	font-size:14px;
+	line-height:16px;
+	text-align:center
+}
+.news-tagger-error-tooltip {
+	overflow:hidden
+}
+.news-tagger .news-tagger-contact .privacy h3 {
+	text-align:left
+}
+.privacy h3 span {
+	color:#1abc9c
+}
+.news-tagger-dob {
+	float:left;
+	margin:0 10px
+}
+.news-tagger .news-tagger-age-picker {
+	margin:0 auto;
+	width:334px
+}
+.news-tagger-dob-div {
+	margin:0;
+	padding:10px 0
+}
+.news-tagger-birthdate {
+	overflow:hidden
+}
+.news-tagger-birthdate span {
+	color:#1abc9c
+}
+.news-tagger-birthdate input {
+	background:0;
+	border:0 none;
+	color:#ffff7b;
+	font-size:16px;
+	font-weight:bold
+}
+.apply, .reviews {
+	font-size:18px;
+	font-weight:bold!important;
+	margin-top:0
+}
+.dob-sub-heading {
+	background:none repeat scroll 0 0 #34495e;
+	border-radius:6px;
+	padding:0 0 0 10px
+}
+.dob-sub-heading p {
+	margin:0;
+	font-weight:bold;
+	font-size:16px
+}
+.dob-sub-heading p span {
+	color:#ffff7b
+}
+.news-tagger .news-tagger-birthdate {
+	margin:0;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center
+}
+.news-tagger .news-tagger-birthdate .birth-day-info {
+	background:none repeat scroll 0 0 #34495e;
+	border-radius:6px;
+	padding:5px;
+	width:247px;
+	margin:10px auto;
+	float:left;
+	line-height:27px
+}
+.news-tagger .news-tagger-birthdate .birth-day-info input {
+	width:100px;
+	width:120px\9;
+	line-height:15px
+}
+.ie9 .news-tagger .news-tagger-birthdate .birth-day-info input {
+	height:30px
+}
+.ie9 .news-tagger .news-tagger-birthdate .birth-day-info input[disabled] {
+	color:#ffff7b
+}
+.margin-top-btm-30 {
+	margin:30px 0 auto
+}
+.news-tagger .form-group {
+	margin:0 auto 15px
+}
+.btn-section {
+	margin:15px 0 0 0;
+	padding:0
+}
+.news-tagger-heading-two {
+	overflow:hidden
+}
+.news-tagger-heading-two h3 {
+	margin:0 auto 15px
+}
+.privacy-mobile {
+	display:none
+}
+.news-tagger .privacy {
+	padding:50px 20px 0;
+	bottom:0;
+	position:relative
+}
+.privacy .icons {
+	margin:0;
+	left:-15px;
+	top:-2px
+}
+.choose-city {
+	overflow:hidden;
+	border:1px solid #ccc
+}
+.choose-city .col-md-3 {
+	padding:0
+}
+.choose-city h5 {
+	padding:10px 20px;
+	margin:0
+}
+.choose-city .other-city-list {
+	float:left;
+	list-style:none inside none;
+	padding:0;
+	width:80%
+}
+.choose-city-container {
+	padding:10px 18px;
+	overflow-y:scroll;
+	min-height:200px
+}
+.select-city {
+	background:#ececec;
+	color:#000;
+	text-align:left
+}
+.choose-city .other-city-list li {
+	margin:0 0 5px 0
+}
+.choose-city .other-city-list li a {
+	display:block;
+	color:#7f7f7f;
+	padding-left:7px;
+	border:1px solid #f7f7f9
+}
+.choose-city .other-city-list li a:hover {
+	background:#ececec;
+	color:#000;
+	border:1px solid #ccc
+}
+.other-city-container {
+	position:absolute;
+	top:-60px
+}
+.other-city-container h5 {
+	margin:0 0 2px 0
+}
+.news-tagger .news-tagger-dropdown {
+	margin:0
+}
+.news-tagger-city .news-tagger-dropdown>.input-group {
+	width:280px
+}
+.news-tagger-dropdown>.input-group>.form-control {
+	border:2px solid #1abc9c
+}
+.news-tagger-dropdown>.input-group>.input-group-addon {
+	background:#1abc9c;
+	border:2px solid #1abc9c
+}
+.news-tagger-dropdown>.input-group>.input-group-addon>.caret {
+	border-bottom:8px none #fff;
+	border-top:8px solid #fff
+}
+.news-tagger-city .padding-btm {
+	padding-bottom:30px
+}
+.auto-fit {
+	overflow:hidden
+}
+.icon-title {
+	position:relative;
+	top:-5px;
+	width:40px
+}
+.year-picker {
+	width:200px;
+	margin:0 auto
+}
+.news-tagger-age-picker-pc .col-md-6 {
+	padding:0
+}
+.news-tagger-age-picker-mobile {
+	clear:both;
+	margin:0 auto;
+	display:none;
+	width:320px
+}
+.icon-title, .news-tagger-heading-mobile {
+	display:none
+}
+.input-group-hg>.form-control, .input-group-hg>.input-group-addon, .input-group-hg>.input-group-btn>.btn {
+	font-size:20px
+}
+.salary-bnk-btn {
+	margin:15px 0 0 0
+}
+.checkbox, .radio {
+	padding:8px 10px
+}
+.privacy>.authorize-section>.checkbox {
+	top:-2px
+}
+.authorize-section>span {
+	padding-left:10px
+}
+.authorize-section a, .contactme-slide-additional-line a {
+	color:#EB4912;
+	text-decoration:underline
+}
+.contactme-slide-additional-line {
+	text-align:center;
+	line-height:normal;
+	padding:10px;
+	color:#000
+}
+.private-msg {
+	color:#fd9c00;
+	line-height:20px;
+	padding-left:58px;
+	position:absolute;
+	height:40px;
+	background-image:url(https://cdn2.bankbazaar.com/images/icon-private-arrow.png);
+	background-repeat:no-repeat;
+	background-position:10px 8px;
+	background-size:40px auto;
+	top:5px;
+	font-size:16px
+}
+.news-tagger-contact .form-horizontal .authorize-section {
+	padding:0 15px
+}
+.title-container {
+	overflow:hidden
+}
+.check-radio-section {
+	margin:10px 0 0
+}
+.table-curved {
+	border-collapse:separate;
+	border:solid #ddd 1px;
+	border-radius:6px;
+	border-left:0;
+	border-top:0;
+	background:none repeat scroll 0 0 #fff;
+	color:#34495e;
+	margin:0 auto 15px;
+	text-align:center;
+	font-size:14px
+}
+.news-tagger .ui-datepicker th {
+	color:#34495e
+}
+.table-curved>thead>tr>th, .table-curved>tbody>tr>th, .table-curved>tfoot>tr>th, .table-curved>thead>tr>td, .table-curved>tbody>tr>td, .table-curved>tfoot>tr>td {
+	text-align:center
+}
+.table-curved>thead:first-child>tr:first-child>th {
+	border-bottom:0;
+	border-top:solid #ddd 1px
+}
+.news-tagger-doj .table-curved td, .news-tagger-doj .table-curved th, .news-tagger-age .table-curved td, .news-tagger-age .table-curved th {
+	border-left:1px solid #ddd;
+	border-top:1px solid #ddd;
+	padding:0
+}
+.news-tagger-doj .table-curved td a, .news-tagger-doj .table-curved th a, .news-tagger-age .table-curved td a, .news-tagger-age .table-curved th a {
+	display:block;
+	color:#34495e;
+	cursor:pointer;
+	height:30px;
+	line-height:30px
+}
+.news-tagger-doj .table-curved .news-tagger-bg:hover, .news-tagger-doj .news-tagger-bg:hover, .news-tagger-age .news-tagger-bg:hover {
+	background:#1abc9c!important;
+	color:#fff
+}
+.news-tagger-doj .year-picker .table-curved td, .news-tagger-doj .year-picker .table-curved th, .news-tagger-age .year-picker .table-curved td, .news-tagger-age .year-picker .table-curved th {
+	padding:0;
+	width:100px
+}
+.news-tagger-doj .table-curved td:hover, .news-tagger-doj .table-curved td a:hover, .news-tagger-doj .table-curved th a:hover, .news-tagger-age .table-curved td a:hover, .news-tagger-age .table-curved th a:hover {
+	background:#c8c8c8;
+	cursor:pointer
+}
+.table-curved td.selected, .table-curved td.selected:hover, .table-curved td.selected a, .table-curved td.selected a:hover {
+	background:none repeat scroll 0 0 #40e0d0;
+	color:#fff
+}
+.news-tagger-doj .table-curved .selected:hover, .news-tagger-doj .table-curved .selected:hover, .news-tagger-age .table-curved .selected:hover, .news-tagger-age .table-curved .selected:hover {
+	background:none repeat scroll 0 0 #40e0d0;
+	color:#fff
+}
+.table-curved>:first-child>:first-child>:first-child {
+	border-top-left-radius:6px
+}
+.table-curved>:first-child>:first-child>:last-child {
+	border-top-right-radius:6px
+}
+.table-curved>:last-child>:last-child>:first-child {
+	border-bottom-left-radius:6px
+}
+.table-curved>:last-child>:last-child>:last-child {
+	border-bottom-right-radius:6px
+}
+.month-yr-table {
+	padding:0
+}
+.ui-datepicker-calendar {
+	border-collapse:separate;
+	border:solid #ddd 1px;
+	border-radius:6px;
+	border-left:0;
+	border-top:0;
+	background:none repeat scroll 0 0 #fff;
+	margin:0 auto 15px;
+	text-align:center;
+	font-size:14px;
+	line-height:18px
+}
+.ui-datepicker-calendar>thead:first-child>tr:first-child>th {
+	border-bottom:0;
+	border-top:solid #ddd 1px
+}
+.ui-datepicker-calendar td, .ui-datepicker-calendar th {
+	border-left:1px solid #ddd;
+	border-top:1px solid #ddd;
+	padding:0
+}
+.ui-datepicker-calendar>:first-child>:first-child>:first-child {
+	border-top-left-radius:6px
+}
+.ui-datepicker-calendar>:first-child>:first-child>:last-child {
+	border-top-right-radius:6px
+}
+.ui-datepicker-calendar>:last-child>:last-child>:first-child {
+	border-bottom-left-radius:6px
+}
+.ui-datepicker-calendar>:last-child>:last-child>:last-child {
+	border-bottom-right-radius:6px
+}
+.news-tagger .ui-datepicker .ui-datepicker-header {
+	display:none
+}
+.news-tagger .ui-datepicker {
+	width:auto;
+	border:0 solid #1abc9c;
+	box-shadow:0 0 0 rgba(52, 73, 94, 0.06);
+	margin:0
+}
+.news-tagger .ui-datepicker-header {
+	display:none
+}
+.news-tagger .ui-datepicker .ui-state-active, .news-tagger .ui-datepicker .ui-state-active:hover {
+	border-radius:0;
+	background:#40e0d0;
+	color:#fff
+}
+.news-tagger .ui-datepicker .ui-state-hover {
+	background-color:#fff
+}
+.ui-datepicker .ui-state-active:hover {
+	background:#1abc9c;
+	color:#fff
+}
+.news-tagger .ui-datepicker td a {
+	border-radius:0
+}
+.news-tagger .ui-datepicker td a:hover {
+	background:#c8c8c8
+}
+.tt-suggestion {
+	cursor:pointer
+}
+.tt-suggestion:focus, .tt-suggestion:active {
+	background:#ccc
+}
+.twitter-typeahead .tt-query, .twitter-typeahead .tt-hint {
+	color:#f00;
+	font-size:20px;
+	height:53px;
+	line-height:1.318;
+	padding:10px 16px
+}
+.newstaggered-modal .twitter-typeahead .tt-hint {
+	text-transform:lowercase;
+	display:none
+}
+.news-tagger-container .basic-required-text {
+	text-transform:uppercase
+}
+.news-tagger .radio-box {
+	margin:10px auto 0;
+	position:relative;
+	width:20px;
+	height:24px
+}
+.salary-bank .radio-box {
+	margin:0 auto
+}
+.salary-bank .touch-icon {
+	/*margin:2px 10px*/
+}
+.news-tagger .ns-other-city {
+	margin:10px auto
+}
+.news-tagger .news-tagger-other-city .did-you-mean-section, .news-tagger .company-slide .did-you-mean-section {
+	margin-top:5px;
+	position:relative;
+	z-index:99
+}
+.loader-spinner .modal-dialog {
+	margin:0 auto;
+	width:116px;
+	text-align:center;
+	width:100%;
+	height:50%;	overflow:auto;
+	margin:auto;
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0
+}
+.loader-spinner .modal-content {
+	background-color:transparent;
+	border:0 solid #ebedef
+}
+.loader-spinner .loading-txt {
+	color:#fff
+}
+.loader-spinner .modal-body {
+	padding:0
+}
+.ns-other-city .twitter-typeahead .tt-query, .ns-other-city .twitter-typeahead .tt-hint {
+	height:34px;
+	padding:8px 12px
+}
+.input-group .ns-other-city-input {
+	background:#fff!important;
+	border-radius:6px!important;
+	font-size:12px;
+	height:34px;
+	text-align:left;
+	text-transform:uppercase
+}
+.ns-other-city .tt-suggestion {
+	text-align:left
+}
+.ns-other-city .tt-cursor {
+	text-transform:uppercase
+}
+.news-tagger .twitter-typeahead .tt-dropdown-menu {
+	background:none repeat scroll 0 0 #fff;
+	border:0 none;
+	color:#34495e;
+	box-shadow:0 0 2px #696969 inset;
+	width:100%;
+	text-transform:uppercase!important
+}
+.news-tagger .twitter-typeahead .tt-dropdown-menu p:focus {
+	background-color:#008000
+}
+.twitter-typeahead .tt-dropdown-menu {
+	height:170px;
+	overflow-y:scroll;
+	text-align:left!important
+}
+.news-tagger .radio label, .news-tagger .checkbox label {
+	display:block;
+	min-height:40px
+}
+.news-tagger .news-tagger-cc .radio label, .news-tagger .news-tagger-cc .checkbox label, .cc-others {
+	display:block
+}
+.input-group .ns-other-city-input {
+	margin:0 auto;
+	float:none
+}
+.news-tagger-btn .apply {
+	padding:8px 25px;
+	font-size:20px;
+	float:none
+}
+.contactMe .news-tagger-btn .apply {
+	padding:10px 25px;
+	margin:0
+}
+.news-tagger .authorize-section .radio, .news-tagger .authorize-section .checkbox {
+	display:inline;
+	padding:0 8px
+}
+.checkbox .icons, .radio .icons {
+	color:#fff
+}
+.checkbox.checked .second-icon, .radio.checked .second-icon {
+	color:#fff
+}
+.news-tagger-city label {
+	margin:10px 0 0 0
+}
+.news-tagger pre {
+	margin:0
+}
+.news-tagger .input-group-addon {
+	background:#34495e;
+	border:0 none;
+	box-shadow:0 0 2px #696969 inset;
+	height:53px;
+	padding:0 15px
+}
+.news-tagger .input-group-addon .checkbox, .radio {
+	line-height:10px;
+	padding:8px 10px
+}
+.company-name .news-tagger-input {
+	height:38px;
+	padding:10px 16px;
+	border-radius:6px!important;
+	text-transform:uppercase;
+	margin:-5px 0 0
+}
+.news-tagger .news-tagger-heading {
+	padding:0;
+	clear:both
+}
+.news-tagger .news-tagger-heading h1, .news-tagger .news-tagger-heading h2 {
+	margin:0;
+	padding:10px 0;
+	font-size:20px;
+	;
+	text-align:center;
+	line-height:28px;
+	font-weight:400;
+	color:#fff
+}
+.carousel-control .icon-prev, .carousel-control .glyphicon-chevron-left, .carousel-control .icon-next, .carousel-control .glyphicon-chevron-right {
+	left:22%;
+	top:25%
+}
+.error-msg .popover {
+	background-color:#f1c40f;
+	display:inline;
+	width:222px
+}
+.error-msg .popover.right .arrow {
+	border-right-color:#f1c40f
+}
+.error-msg .popover-content {
+	color:#fff;
+	overflow:hidden;
+	padding:0 10px
+}
+.error-msg .popover label {
+	font-weight:bold
+}
+.news-tagger-content .popover {
+	display:block;
+	background-color:#7af8bd;
+	margin-top:7px;
+	z-index:0
+}
+.news-tagger .monthly-salary .news-tagger-content .popover {
+	left:-39px;
+	margin-top:-25px
+}
+.popover-content p {
+	margin:0;
+	color:#009e43
+}
+.popover.right .arrow {
+	border-right-color:#7af8bd
+}
+.popover-content {
+	padding:10px 20px
+}
+.self-emp-mobile, .news-tagger-heading-mo {
+	display:none
+}
+.error-msg {
+    /*position:absolute;*/
+   float:none; 
+    color: red; 
+    font-weight: 600;
+    border-radius: 43px;
+    padding: 10px !important;
+    font-size: 12px !important;
+}
+.news-tagger-other-city .error.input-error-cl {
+	left:12px;
+	width:204px
+}
+.error-sec-mo {
+	min-height:0
+}
+.news-tagger .skip-slide {
+	color:#fff;
+	font-size:18px;
+	line-height:normal;
+	padding:4px 10px;
+	position:absolute;
+	text-align:left;
+	text-decoration:underline
+}
+@-webkit-keyframes color_change {
+from {
+background-color:#f1c40f
+}
+to {
+	background-color:#ff9c01
+}
+}
+@-moz-keyframes color_change {
+from {
+background-color:#f1c40f
+}
+to {
+	background-color:#ff9c01
+}
+}
+@-ms-keyframes color_change {
+from {
+background-color:#f1c40f
+}
+to {
+	background-color:#ff9c01
+}
+}
+@-o-keyframes color_change {
+from {
+background-color:#f1c40f
+}
+to {
+	background-color:#ff9c01
+}
+}
+@keyframes color_change {
+from {
+background-color:#f1c40f
+}
+to {
+	background-color:#ff9c01
+}
+}
+@-webkit-keyframes color_change_border {
+from {
+border-right-color:#f1c40f
+}
+to {
+	border-right-color:#ff9c01
+}
+}
+@-moz-keyframes color_change_border {
+from {
+border-right-color:#f1c40f
+}
+to {
+	border-right-color:#ff9c01
+}
+}
+@-ms-keyframes color_change_border {
+from {
+border-right-color:#f1c40f
+}
+to {
+	border-right-color:#ff9c01
+}
+}
+@-o-keyframes color_change_border {
+from {
+border-right-color:#f1c40f
+}
+to {
+	border-right-color:#ff9c01
+}
+}
+@keyframes color_change_border {
+from {
+border-right-color:#f1c40f
+}
+to {
+	border-right-color:#ff9c01
+}
+}
+@-webkit-keyframes color_change_border-btm {
+from {
+border-top-color:#f1c40f
+}
+to {
+	border-top-color:#ff9c01
+}
+}
+@-moz-keyframes color_change_border-btm {
+from {
+border-top-color:#f1c40f
+}
+to {
+	border-top-color:#ff9c01
+}
+}
+@-ms-keyframes color_change_border-btm {
+from {
+border-top-color:#f1c40f
+}
+to {
+	border-top-color:#ff9c01
+}
+}
+@-o-keyframes color_change_border-btm {
+from {
+border-top-color:#f1c40f
+}
+to {
+	border-top-color:#ff9c01
+}
+}
+@keyframes color_change_border-btm {
+from {
+border-top-color:#f1c40f
+}
+to {
+	border-top-color:#ff9c01
+}
+}
+@-webkit-keyframes color_change_border-top {
+from {
+border-bottom-color:#f1c40f
+}
+to {
+	border-bottom-color:#ff9c01
+}
+}
+@-moz-keyframes color_change_border-top {
+from {
+border-bottom-color:#f1c40f
+}
+to {
+	border-bottom-color:#ff9c01
+}
+}
+@-ms-keyframes color_change_border-top {
+from {
+border-bottom-color:#f1c40f
+}
+to {
+	border-bottom-color:#ff9c01
+}
+}
+ @-o-keyframes color_change_border-top {
+from {
+border-bottom-color:#f1c40f
+}
+to {
+	border-bottom-color:#ff9c01
+}
+}
+@keyframes color_change_border-top {
+from {
+border-bottom-color:#f1c40f
+}
+to {
+	border-bottom-color:#ff9c01
+}
+}
+.news-tagger-content label {
+	line-height:normal
+}
+.news-tagger-content .error td {
+	text-align:left
+}
+.error-msg .error, .input-error-cl {
+	-webkit-animation:color_change 1s infinite alternate;
+	-moz-animation:color_change 1s infinite alternate;
+	-ms-animation:color_change 1s infinite alternate;
+	-o-animation:color_change 1s infinite alternate;
+	animation:color_change 1s infinite alternate;
+	-webkit-animation:color_change 1s infinite alternate;
+	-moz-animation:color_change 1s infinite alternate;
+	-ms-animation:color_change 1s infinite alternate;
+	-o-animation:color_change 1s infinite alternate;
+	animation:color_change 1s infinite alternate
+}
+.error-msg .error {
+	position:relative;
+	background:#f1c40f;
+	border-radius:6px;
+	padding:5px 12px 5px 5px;
+	margin-left:20px
+}
+.error-msg .error {
+	font-weight:bold;
+	line-height:normal;
+	position:relative;
+	top:12px;
+	line-height:25px
+}
+.error-msg .error img {
+	float:left;
+	padding-right:5px
+}
+.error-msg .error:after {
+	right:100%;
+	top:50%;
+	border:solid transparent;
+	content:" ";
+	height:0;
+	width:0;
+	position:absolute;
+	pointer-events:none;
+	border-color:rgba(136, 183, 213, 0);
+	border-right-color:#f1c40f;
+	-moz-animation:color_change_border 1s infinite alternate;
+	-ms-animation:color_change_border 1s infinite alternate;
+	-o-animation:color_change_border 1s infinite alternate;
+	animation:color_change_border 1s infinite alternate;
+	border-width:10px;
+	margin-top:-10px
+}
+.error-msg-mo .error {
+	position:relative;
+	background:#f1c40f;
+	border-radius:6px;
+	padding:5px 12px 10px 5px;
+	margin-left:20px
+}
+.error-msg-mo .error {
+	font-weight:bold;
+	line-height:normal;
+	position:relative;
+	top:12px;
+	line-height:25px;
+	display:block;
+	float:none;
+	width:234px;
+	margin:0 auto
+}
+.error-msg-mo .error img {
+	float:left;
+	padding-right:5px
+}
+.error-msg-mo .error:after {
+	right:50%;
+	top:50%;
+	border:solid transparent;
+	content:" ";
+	height:0;
+	width:0;
+	position:absolute;
+	pointer-events:none;
+	border-color:rgba(136, 183, 213, 0);
+	border-top-color:#f1c40f;
+	-moz-animation:color_change_border 1s infinite alternate;
+	-ms-animation:color_change_border-btm 1s infinite alternate;
+	-o-animation:color_change_border-btm 1s infinite alternate;
+	animation:color_change_border-btm 1s infinite alternate;
+	border-width:10px;
+	margin-top:19px
+}
+.error-msg .input-error-cl {
+	font-weight:bold;
+	line-height:normal;
+	position:relative;
+	top:12px
+}
+.error-msg .input-error-cl img {
+	float:left;
+	padding-right:5px
+}
+.error-msg .input-error-cl:after {
+	right:100%;
+	top:17px;
+	border:solid transparent;
+	content:" ";
+	height:0;
+	width:0;
+	position:absolute;
+	pointer-events:none;
+	border-color:rgba(136, 183, 213, 0);
+	border-right-color:#f1c40f;
+	-moz-animation:color_change_border 1s infinite alternate;
+	-ms-animation:color_change_border 1s infinite alternate;
+	-o-animation:color_change_border 1s infinite alternate;
+	animation:color_change_border 1s infinite alternate;
+	border-width:10px;
+	margin-top:-10px
+}
+.error-msg-mo .input-error-cl {
+	position:relative;
+	background:#f1c40f;
+	border-radius:6px;
+	padding:5px 12px 10px 5px;
+	margin-left:20px
+}
+.error-msg-mo .input-error-cl {
+	font-weight:bold;
+	line-height:normal;
+	position:relative;
+	top:12px;
+	line-height:25px;
+	display:block;
+	float:none;
+	width:234px;
+	margin:0 auto
+}
+.error-msg-mo .input-error-cl img {
+	float:left;
+	padding-right:5px
+}
+.error-msg-mo .input-error-cl:after {
+	right:50%;
+	top:50%;
+	border:solid transparent;
+	content:" ";
+	height:0;
+	width:0;
+	position:absolute;
+	pointer-events:none;
+	border-color:rgba(136, 183, 213, 0);
+	border-top-color:#f1c40f;
+	-moz-animation:color_change_border 1s infinite alternate;
+	-ms-animation:color_change_border-btm 1s infinite alternate;
+	-o-animation:color_change_border-btm 1s infinite alternate;
+	animation:color_change_border-btm 1s infinite alternate;
+	border-width:10px;
+	margin-top:19px
+}
+.news-tagger-content .input-error-cl, .authorize-section .input-error-cl {
+	position:absolute;
+	color:#fff;
+	background:#f1c40f;
+	border-radius:6px;
+	padding:5px;
+	margin-top:10px;
+	line-height:normal;
+	font-weight:bold;
+	width:100%;
+	clear:both;
+	z-index:1000;
+	left:0
+}
+.news-tagger-contact .input-error-cl {
+	position:relative;
+	margin-bottom:0
+}
+.error-icon {
+	display:block;
+	float:left;
+	padding-right:5px
+}
+.error-info {
+	padding:5px 0 0 0
+}
+.error.input-error-cl>table {
+	text-align:left;
+	text-indent:0
+}
+.news-tagger-content .error:after, .authorize-section .error:after {
+	right:100%;
+	top:50%;
+	border:solid transparent;
+	content:" ";
+	height:0;
+	top:-18px;
+	left:11px;
+	width:0;
+	position:absolute;
+	pointer-events:none;
+	border-color:rgba(136, 183, 213, 0);
+	border-bottom-color:#f1c40f;
+	border-width:10px;
+	-moz-animation:color_change_border-top 1s infinite alternate;
+	-ms-animation:color_change_border-top 1s infinite alternate;
+	-o-animation:color_change_border-top 1s infinite alternate;
+	animation:color_change_border-top 1s infinite alternate
+}
+.news-tagger-content .checkbox.checked, .radio.checked {
+	color:#000000;
+}
+.privacy .checkbox.checked {
+	color:#000
+}
+.error.input-error-cl>img {
+	float:left;
+	padding-right:10px
+}
+.authorize-section .error {
+	position:absolute;
+	width:242px;
+	left:-12px
+}
+.form-control.news-tagger-input.validate.number.basic-required-text.error {
+	margin:0
+}
+.form-control.input-hg.right-align.autofill-text.news-tagger-input.validate.basic-required-text.error {
+	margin:0
+}
+.monthly-salary .news-tagger-slider, .total-emi .news-tagger-slider, .total-emi .news-tagger-slider {
+	margin:40px auto 0
+}
+.form-control.news-tagger-input.validate.number.basic-required-text.error {
+	position:relative;
+	height:53px
+}
+.col-md-12.text-center.news-tagger-btn img {
+	position:relative
+}
+.col-md-12.text-center.news-tagger-btn .pointing-arrow {
+	position:absolute;
+	margin-top:-12px
+}
+.select-from-our-menu .col-md-12.text-center.news-tagger-btn .pointing-arrow {
+	position:absolute;
+	margin-top:-4px;
+	margin-left:34px
+}
+.form-control.ns-other-city-input.other-city-required-when-selected.validate.tt-input.error {
+	margin-top:0
+}
+.error-msg-mo {
+	display:none!important
+}
+.form-control.news-tagger-input.company-required-for-salaried.validate.tt-input.error {
+	margin-top:-5px
+}
+.news-tagger-content .company-label {
+	line-height:5px;
+	margin:0
+}
+.did-you-mean-section {
+	padding:0
+}
+.did-you-mean-section ul {
+	list-style:none;
+	padding:0;
+	margin:auto 0
+}
+.did-you-mean-section .btn-group, .did-you-mean-section .select .btn {
+	width:100%
+}
+.did-you-mean-section .select .btn {
+	box-shadow:0 0 2px #696969 inset;
+	color:#34495e;
+	background:#fff;
+	height:34px;
+	line-height:14px;
+	padding:8px 12px;
+	text-transform:uppercase
+}
+.did-you-mean-section .select .caret {
+	border-bottom-color:#34495e;
+	border-top-color:#34495e
+}
+.did-you-mean-section label {
+	font-size:16px;
+	font-weight:bold;
+	padding-bottom:10px
+}
+.news-tagger .radio .did-you-mean-section label {
+	min-height:20px;
+	text-align:center
+}
+.did-you-mean-section .dropdown-menu li>a:focus, .did-you-mean-section .dropdown-menu li>a:hover {
+	background:#ccc;
+	color:#34495e
+}
+.did-you-mean-section .dropdown-menu li.active>a, .did-you-mean-section .dropdown-menu li.selected>a, .did-you-mean-section .dropdown-menu li.active>a.highlighted, .did-you-mean-section .dropdown-menu li.selected>a.highlighted {
+	background:#ccc;
+	color:#34495e
+}
+.did-you-mean-section .dropdown-menu li dt {
+	line-height:10px
+}
+.company-name .did-you-mean-section .select .btn {
+	box-shadow:0 0 2px #696969 inset;
+	height:53px;
+	line-height:32px;
+	padding:10px 16px
+}
+.company-name .did-you-mean-section .open>.dropdown-menu {
+	width:100%
+}
+.icon-tick {
+	display:none
+}
+.checked .icon-tick {
+	display:inline-block;
+	background:none repeat scroll 0 0 #40e0d0;
+	padding:5px;
+	border-radius:300px;
+	color:#fff;
+	margin:0 5px 0 0
+}
+.slider .tooltip {
+	opacity:1;
+	-ms-filter:"alpha(opacity=100)"
+}
+.recommendedSearchImg {
+	position:absolute;
+	top:16px;
+	right:10px
+}
+.ns-other-city .recommendedSearchImg {
+	top:9px
+}
+.green.recoMsg.dontshow.recommendSearchMessage {
+	display:none
+}
+.news-tagger-other-city .input-error-cl {
+	position:absolute;
+	z-index:1000
+}
+.icon-tick {
+	display:none
+}
+.checked .icon-tick {
+	display:inline-block;
+	background:none repeat scroll 0 0 #40e0d0;
+	padding:5px;
+	border-radius:300px;
+	color:#fff;
+	margin:0 5px 0 0
+}
+.slider .tooltip {
+	opacity:1
+}
+.green.recoMsg.dontshow.recommendSearchMessage {
+	display:none
+}
+.news-tagger-other-city .input-error-cl {
+	position:absolute;
+	z-index:1000
+}
+.icon-tick {
+	display:none
+}
+.checked .icon-tick {
+	display:inline-block;
+	background:none repeat scroll 0 0 #40e0d0;
+	padding:5px;
+	border-radius:300px;
+	color:#fff;
+	margin:0 5px 0 0
+}
+.slider .tooltip {
+	opacity:1
+}
+.green.recoMsg.dontshow.recommendSearchMessage {
+	display:none
+}
+.news-tagger-car-modal .touch-icon {
+	text-align:center
+}
+.touch-icon {
+/*	margin:2px 10px*/
+}
+.touch-icon:hover, .touch-icon .checked {
+	/*background:none repeat scroll 0 0 #FB6C2B;
+	border-radius:6px;
+	color:#fff*/
+}
+
+
+.iphone .touch-icon {
+	margin:5px 10px
+}
+.iphone .touch-icon:hover {
+	background:transparent
+}
+.touch-icon label {
+	cursor:pointer
+}
+.ns-fixed-height {
+	min-height:100px;
+	position:relative
+}
+
+.ns-fixed-height h3 span{ /* background: none repeat scroll 0% 0% rgba(57, 57, 59, 0.33); */
+padding: 2px 49px; }
+
+.news-tagger .company-slide {
+	width:768px;
+	margin:0 auto;
+	background-image:url(https://cdn1.bankbazaar.com/images/company-bg-v1.png);
+	background-repeat:no-repeat
+}
+.news-tagger .computer-info {
+	left:-3px;
+	width:300px;
+	margin:0 auto;
+	position:relative;
+	top:200px
+}
+.news-tagger .company-slide .news-tagger-content {
+	padding-top:0
+}
+.news-tagger .company-slide h3 {
+	margin:10px 0;
+	font-size:22px
+}
+.news-tagger .company-slide .news-tagger-help-txt {
+	color:#fff
+}
+.news-tagger .company-slide .company-options {
+	padding:0 10px;
+	text-align:center;
+	margin-top:-10px
+}
+.news-tagger .company-slide .company-options .radio.primary {
+	display:inline;
+	padding:3px 0 3px 20px
+}
+.news-tagger .company-slide .company-options .self-employed-checkbox a, .news-tagger .company-slide .company-options .salaried-checkbox a {
+	color:#fff
+}
+.news-tagger .company-slide .company-options .radio.salaried-checkbox {
+	padding-right:10px
+}
+.news-tagger .company-slide .company-radio-option {
+	padding:3px 10px 0;
+	min-height:96px
+}
+.news-tagger .company-slide .company-radio-option .input-group label {
+	margin-bottom:0
+}
+.news-tagger .company-options .checkbox.primary .icons, .news-tagger .company-options .radio.primary .icons, .news-tagger .company-options .radio.primary a {
+	color:#fff
+}
+.news-tagger .company-options .checkbox.primary.checked, .radio.primary.checked, .radio.primary.checked a, .news-tagger .self-employed-option .radio.primary.checked a {
+	color:#fff
+}
+.news-tagger .company-options .radio.primary {
+	font-size:14px;
+	font-weight:bold
+}
+.news-tagger .company-slide select {
+	height:38px;
+	padding:10px 12px;
+	margin:-5px 0 0
+}
+.news-tagger .company-slide .news-tagger-content .input-error-cl, .news-tagger .company-slide .authorize-section .input-error-cl {
+	position:absolute;
+	width:250px;
+	z-index:1000
+}
+.news-tagger .company-slide .recommendedSearchImg {
+	top:9px
+}
+.news-tagger .company-slide .did-you-mean-section {
+	margin-top:5px
+}
+.news-tagger .date-selection {
+	width:509px;
+	margin:0 auto;
+	text-align:center;
+	min-height:160px
+}
+.news-tagger .year-picker {
+	width:200px;
+	display:inline-block
+}
+.news-tagger .month-picker {
+	width:300px;
+	display:inline-block
+}
+.news-tagger .news-tagger-date-picker {
+	padding:0 10px;
+	vertical-align:top
+}
+.month-picker.dontshow {
+	display:none
+}
+.news-tagger .gender-info .label-icon.radio .icons {
+	color:#fff;
+	margin:10px auto 0;
+	position:relative
+}
+.news-tagger .gender-info .block-content {
+	display:block;
+	margin:5px;
+	color:#000;
+	text-align:center
+}
+.news-tagger .gender-info {
+	width:650px;
+	margin:0 auto
+}
+.news-tagger .gender-slide .label-icon.checked, .news-tagger .gender-slide  .label-icon:hover {
+	background-color:#FB6C2B;
+	border-radius:6px;
+	color:#fff;
+	width:100%;
+	display:inline-block
+}
+.news-tagger .loading-circle {
+	padding-left:40px!important;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/loading-circle.gif);
+	background-repeat:no-repeat;
+	background-position:10px 10px
+}
+.iphone .news-tagger .loading-circle {
+	padding-left:40px!important;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/loading-circle.gif);
+	background-repeat:no-repeat;
+	background-position:10px 10px
+}
+ @media only screen and (min-width:320px) and (max-width:767px) {
+.news-tagger .gender-info {
+width:auto;
+margin:0 auto 0
+}
+.news-tagger .gender-info .label-icon-big img {
+height:120px
+}
+.news-tagger .gender-slide .type-of-employment-icons {
+width:70%;
+margin:20px auto 10px
+}
+}
+ @media(max-width:480px) {
+.news-tagger .loading-circle {
+background-position:10px 4px
+}
+}
+.news-tagger-doj .news-tagger-content {
+	padding-top:10px
+}
+.date-selection .table-curved {
+	margin:0 auto
+}
+.total-exp-mo {
+	display:none
+}
+.company-slide .hidden-xs {
+	left:270px;
+	top:-90px
+}
+.property-cost .tooltip-inner {
+	background-color:#7af8bd;
+	color:#009e43;
+	width:300px;
+	max-width:300px;
+	text-align:left
+}
+.property-cost .tooltip.right .tooltip-arrow {
+	border-right-color:#7af8bd
+}
+.property-cost .tooltip.bottom .tooltip-arrow {
+	border-bottom-color:#7af8bd
+}
+#company-toggle-button .btn-primary:active, #company-toggle-button .btn-primary {
+	background-color:#3dbfd9
+}
+#company-toggle-button .btn-default {
+	background-color:#555;
+	color:#888
+}
+.residence-type .news-tagger-content {
+	padding-top:34px
+}
+.news-tagger-res {
+	background-image:url(https://cdn2.bankbazaar.com/images/residence-bg-v1.png);
+	background-repeat:no-repeat;
+	background-position:center center
+}
+.news-tagger-res .news-tagger-list .list-group-item {
+	background-color:transparent;
+	border:0 solid #ddd;
+	color:#34495e;
+	cursor:pointer;
+	float:left;
+	padding:0;
+	text-align:left;
+	width:50%;
+	height:auto
+}
+.news-tagger-res .news-tagger-list .list-group-item:hover {
+	background:#c8c8c8
+}
+.news-tagger-res .news-tagger-list .news-tagger-bg-without-border, .news-tagger-res .news-tagger-list .news-tagger-bg-without-border:hover {
+	background-color:transparent;
+	color:#fff
+}
+.news-tagger-res .news-tagger-list {
+	border:0 none;
+	font-size:14px;
+	margin:18px auto 0 auto;
+	overflow:hidden;
+	width:405px;
+	padding-left:5px
+}
+.news-tagger-res .news-tagger-list .list-group {
+	margin:0 0 0 7px
+}
+.news-tagger-res .news-tagger-list .list-group-item label {
+	padding:5px 0 5px 32px;
+	line-height:20px;
+	cursor:pointer;
+	transition:color 0s linear 0s;
+	margin:2px 5px
+}
+.news-tagger-res .news-tagger-list .list-group-item:hover {
+	background-color:transparent
+}
+.news-tagger-res .news-tagger-list .list-group-item label:hover, .news-tagger-res .news-tagger-list .list-group-item label.checked {
+	background-color:#3dbfd9;
+	border-radius:6px;
+	color:#fff
+}
+.news-tagger-res .news-tagger-list .list-group-item label:hover .icons {
+	color:#fff
+}
+.news-tagger-res .checkbox .icons, .news-tagger-res .radio .icons {
+	line-height:29px;
+	color:#bcc2c6;
+	transition:color 0 linear 0s;
+	left:10px
+}
+.news-tagger-res .residence-mo {
+	display:none
+}
+.news-tagger-salary-deposited .icon-bank {
+	width:100px
+}
+.news-tagger-salary-deposited .touch-icon, .news-tagger .news-tagger-cc {
+	text-align:center
+}
+.news-tagger .news-tagger-salary-deposited .bank-name {
+	height:auto;
+	min-height:41px
+}
+.news-tagger .car-slide .news-tagger-salary-deposited .bank-name {
+	height:auto;
+	min-height:initial
+}
+.news-tagger-content.car-slide {
+	padding-top:0
+}
+.news-tagger .news-tagger-salary-deposited {
+	padding-top:0
+}
+.news-tagger .news-tagger-salary-deposited, .news-tagger .news-tagger-cc .news-tagger-content {
+	padding-top:0
+}
+.news-tagger .news-tagger-section-center {
+	margin:0 auto;
+	float:none
+}
+.news-tagger .news-tagger-cc .col-md-offset-13 {
+	margin-left:13%
+}
+.news-tagger-cc .icon-bank {
+	width:120px
+}
+.news-tagger-cc .checkbox {
+	padding:1px 10px
+}
+.news-tagger-cc .check-radio-section {
+	margin:0
+}
+.news-tagger-cc .radio-box {
+	margin:0 auto
+}
+.news-tagger-cc .city-name {
+	margin-top:5px
+}
+.car-dynamic-img {
+	background-color:#fff;
+	border-radius:312px;
+	width:100px;
+	display:block;
+	overflow:hidden;
+	height:100px;
+	margin:0 auto
+}
+.news-tagger .checkbox:hover .second-icon, .radio:hover .second-icon {
+	opacity:1!important
+}
+.cc-monthly-incentives-slider .news-tagger-slider {
+	background:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png) no-repeat scroll 6px -613px;
+	height:85px;
+	margin:0 auto;
+	position:relative;
+	text-align:center;
+	width:755px!important
+}
+.cc-monthly-incentives-slider .well {
+	background:0;
+	border:0;
+	border-radius:0;
+	box-shadow:none
+}
+.cc-monthly-incentives-slider .minimum-value-slider {
+	left:59px;
+	top:26px
+}
+.cc-monthly-incentives-slider .maximum-value-slider {
+	right:53px;
+	top:27px
+}
+.cc-monthly-incentives-slider .minimum-value-slider, .cc-monthly-incentives-slider .maximum-value-slider {
+	color:#2c3e50;
+	font-size:12px;
+	position:absolute
+}
+.news-tagger .monthly-incentives .news-tagger-content .popover {
+	left:-40px;
+	margin-top:-12px;
+	width:187px
+}
+.cc-monthly-incentives-slider {
+	margin-top:30px
+}
+#carSlide {
+	padding-top:0
+}
+.news-tagger .car-slide-title h3 {
+	margin-bottom:5px
+}
+#carSlide .touch-icon img {
+	width:100px
+}
+#carSlide .touch-icon .car-dynamic-img img {
+	width:80px;
+	margin-top:20px
+}
+#carSlide .touch-icon .error-icon>img {
+	width:auto
+}
+.news-tagger #carSlide .radio-box {
+	margin-top:0
+}
+.news-tagger #carSlide .news-tagger-salary-deposited .bank-name {
+	white-space:nowrap
+}
+.news-tagger #carSlide .city-name, .news-tagger #carSlide .bank-name, .news-tagger #carSlide .car-name {
+	margin:5px 0 0
+}
+.offer-loadings .modal-dialog {
+	width:900px
+}
+.offer-loadings .modal-content {
+	background-color:transparent;
+	border:0 solid #000
+}
+.offer-loadings h6 {
+	text-align:center;
+	color:#fff
+}
+.offer-loading-modal {
+	overflow:hidden;
+	height:680px;
+	position:relative
+}
+.ff3 .offer-loading-modal {
+	border:1px solid transparent
+}
+.offer-loadings .wrapper {
+	width:100%;
+	height:400px;
+	position:relative;
+	overflow:hidden
+}
+.offer-loadings .top {
+	position:absolute;
+	left:175px;
+	top:228px
+}
+.offer-loadings .bottom {
+	position:absolute;
+	bottom:40px;
+	left:50px;
+	animation:animationFrames linear 15s;
+	animation-iteration-count:infinite;
+	transform-origin:50% 50%;
+	-webkit-animation:animationFrames linear 15s;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-transform-origin:50% 50%;
+	-moz-animation:animationFrames linear 15s;
+	-moz-animation-iteration-count:infinite;
+	-moz-transform-origin:50% 50%;
+	-o-animation:animationFrames linear 15s;
+	-o-animation-iteration-count:infinite;
+	-o-transform-origin:50% 50%;
+	-ms-animation:animationFrames linear 15s;
+	-ms-animation-iteration-count:infinite;
+	-ms-transform-origin:50% 50%
+}
+@keyframes animationFrames {
+0% {
+transform:translate(0px, 0px)
+}
+10% {
+transform:translate(0px, -90px)
+}
+20% {
+transform:translate(0px, 10px)
+}
+30% {
+transform:translate(0px, -90px)
+}
+40% {
+transform:translate(0px, 10px)
+}
+50% {
+transform:translate(0px, -90px)
+}
+60% {
+transform:translate(0px, 10px)
+}
+70% {
+transform:translate(0px, -90px)
+}
+80% {
+transform:translate(0px, 10px)
+}
+90% {
+transform:translate(0px, -90px)
+}
+100% {
+transform:translate(0px, 0px)
+}
+}
+ @-moz-keyframes animationFrames {
+0% {
+-moz-transform:translate(0px, 0px)
+}
+10% {
+-moz-transform:translate(0px, -90px)
+}
+20% {
+-moz-transform:translate(0px, 10px)
+}
+30% {
+-moz-transform:translate(0px, -90px)
+}
+40% {
+-moz-transform:translate(0px, 10px)
+}
+50% {
+-moz-transform:translate(0px, -90px)
+}
+60% {
+-moz-transform:translate(0px, 10px)
+}
+70% {
+-moz-transform:translate(0px, -90px)
+}
+80% {
+-moz-transform:translate(0px, 10px)
+}
+90% {
+-moz-transform:translate(0px, -90px)
+}
+100% {
+-moz-transform:translate(0px, 0px)
+}
+}
+ @-webkit-keyframes animationFrames {
+0% {
+-webkit-transform:translate(0px, 0px)
+}
+10% {
+-webkit-transform:translate(0px, -90px)
+}
+20% {
+-webkit-transform:translate(0px, 10px)
+}
+30% {
+-webkit-transform:translate(0px, -90px)
+}
+40% {
+-webkit-transform:translate(0px, 10px)
+}
+50% {
+-webkit-transform:translate(0px, -90px)
+}
+60% {
+-webkit-transform:translate(0px, 10px)
+}
+70% {
+-webkit-transform:translate(0px, -90px)
+}
+80% {
+-webkit-transform:translate(0px, 10px)
+}
+90% {
+-webkit-transform:translate(0px, -90px)
+}
+100% {
+-webkit-transform:translate(0px, 0px)
+}
+}
+ @-o-keyframes animationFrames {
+0% {
+-o-transform:translate(0px, 0px)
+}
+10% {
+-o-transform:translate(0px, -90px)
+}
+20% {
+-o-transform:translate(0px, 10px)
+}
+30% {
+-o-transform:translate(0px, -90px)
+}
+40% {
+-o-transform:translate(0px, 10px)
+}
+50% {
+-o-transform:translate(0px, -90px)
+}
+60% {
+-o-transform:translate(0px, 10px)
+}
+70% {
+-o-transform:translate(0px, -90px)
+}
+80% {
+-o-transform:translate(0px, 10px)
+}
+90% {
+-o-transform:translate(0px, -90px)
+}
+100% {
+-o-transform:translate(0px, 0px)
+}
+}
+ @-ms-keyframes animationFrames {
+0% {
+-ms-transform:translate(0px, 0px)
+}
+10% {
+-ms-transform:translate(0px, -90px)
+}
+20% {
+-ms-transform:translate(0px, 10px)
+}
+30% {
+-ms-transform:translate(0px, -90px)
+}
+40% {
+-ms-transform:translate(0px, 10px)
+}
+50% {
+-ms-transform:translate(0px, -90px)
+}
+60% {
+-ms-transform:translate(0px, 10px)
+}
+70% {
+-ms-transform:translate(0px, -90px)
+}
+80% {
+-ms-transform:translate(0px, 10px)
+}
+90% {
+-ms-transform:translate(0px, -90px)
+}
+100% {
+-ms-transform:translate(0px, 0px)
+}
+}
+.offer-loadings .modal-body {
+	padding:0
+}
+.offer-loadings .modal-dialog {
+	width:768px
+}
+.offer-loadings .modal-content {
+	background-color:transparent;
+	border:0 solid #000
+}
+.offer-loadings .loading-head {
+	font-size:24px;
+	font-weight:bold;
+	text-align:center;
+	color:#fff;
+	margin-top:36px
+}
+.offer-loadings h6 {
+	text-align:center;
+	color:#fff;
+	padding-top:20px
+}
+.offer-loadings .loading-serve-plate-cap {
+	position:absolute;
+	left:0
+}
+.offer-loadings .loading-serve-plate {
+	position:absolute;
+	left:100px
+}
+.loading-serve-plate-cap img {
+	width:400px
+}
+.loading-serve-plate img {
+	position:absolute;
+	bottom:0;
+	width:300px;
+	margin-left:124px;
+	margin-top:23px
+}
+.cc-offer-loading-modal {
+	height:500px;
+	width:100%;
+	overflow:hidden;
+	position:relative
+}
+#snowflakeContainer {
+	position:absolute;
+	left:0;
+	top:0
+}
+.snowflake {
+	padding-left:15px;
+	font-family:Cambria, Georgia, serif;
+	font-size:14px;
+	line-height:24px;
+	position:fixed;
+	color:#fff;
+	user-select:none;
+	z-index:1000
+}
+.snowflake:hover {
+	cursor:default
+}
+.ui-effects-wrapper img {
+	width:400px!important;
+	height:auto!important
+}
+.newstaggered-modal .modal-dialog .twitter-typeahead {
+	width:100%;
+	display:table-cell!important;
+	float:left;
+	height:auto
+}
+.newstaggered-modal .modal-dialog .twitter-typeahead input, .newstaggered-modal .modal-dialog .twitter-typeahead input[type="text"]:focus {
+	width:100%;
+	border-radius:0 6px 6px 0!important
+}
+.newstaggered-modal .modal-dialog .tt-dropdown-menu {
+	height:200px;
+	overflow-y:scroll;
+	z-index:101!important
+}
+.newstaggered-modal .modal-dialog .tt-suggestion p {
+	text-align:left
+}
+.newstaggered-modal .modal-dialog .tt-dropdown-menu .tt-dataset-cities .tt-cursor {
+	background-color:#eee
+}
+.tabmarg {
+	position:absolute!important
+}
+ @media only screen and (max-width :1400px) {
+.cc-offer-loading-modal {
+height:500px
+}
+}
+ @media only screen and (min-width:768px) and (max-width:1023px) {
+.cc-monthly-incentives-slider .news-tagger-slider {
+background:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png) no-repeat scroll 14px -604px / 94% auto!important;
+height:85px;
+margin:0 auto;
+text-align:center;
+width:740px
+}
+.cc-monthly-incentives-slider .slider.slider-horizontal {
+height:70px;
+margin:0 auto 0 5px;
+width:584px
+}
+.news-tagger .monthly-incentives .news-tagger-content .popover {
+left:-14px;
+margin-top:-12px;
+width:187px
+}
+.news-tagger .twitter-typeahead .tt-dropdown-menu {
+left:0!important
+}
+.ipad .news-tagger .twitter-typeahead .tt-dropdown-menu {
+left:0!important
+}
+.newstaggered-modal .twitter-typeahead .tt-dropdown-menu {
+left:auto!important
+}
+}
+ @media only screen and (max-width :1400px) {
+.offer-loadings .modal-dialog {
+width:768px
+}
+.offer-loading-modal .mo0 {
+width:90%
+}
+}
+ @media only screen and (min-width:320px) and (max-width:640px) {
+.monthly-incentives .cc-salery-mob {
+float:none!important;
+margin:0 auto;
+text-align:center;
+width:250px
+}
+.monthly-incentives .news-tagger .cc-salery-mob .form-group {
+width:210px
+}
+.news-tagger-content .input-error-cl, .authorize-section .input-error-cl {
+left:11px
+}
+.news-tagger-cc-gti .cc-salery-mob .error.input-error-cl {
+width:240px
+}
+.policy .ncb-offer .txt {
+margin:0;
+padding:0
+}
+.policy .news-tagger-btn, .policy .news-tagger-content .nt-slide-title {
+margin:0;
+padding:0
+}
+.policy .yearsNoClaim .nt-slide-title {
+margin-top:0
+}
+.news-tagger .news-tagger-salary-deposited .bank-name {
+height:auto;
+min-height:48px
+}
+.icon-city, .icon-car {
+width:60px!important
+}
+.car-dynamic-img {
+width:60px;
+height:60px
+}
+#carSlide .touch-icon .car-dynamic-img img {
+width:50px!important;
+margin-top:12px
+}
+.cl-slider-condent .tab-content .tab-pane.active label[for="car_2"] img {
+margin-top:0
+}
+}
+ @media only screen and (min-width:320px) and (max-width:900px) {
+.news-tagger .monthly-incentives .news-tagger-content .popover {
+display:none
+}
+}
+ @media only screen and (max-width:1024px) {
+.icon-city {
+width:127px
+}
+}
+ @media only screen and (max-width:1023px) {
+.private-msg {
+background-size:20px auto;
+font-size:14px;
+padding-left:35px
+}
+.error-msg {
+width:240px
+}
+.property-cost .tooltip {
+left:18px!important
+}
+.property-cost .tooltip-inner {
+width:253px;
+max-width:253px
+}
+.news-tagger .my-preferred-car .icon-city, .news-tagger .my-preferred-car .icon-car {
+width:60px!important
+}
+}
+ @media only screen and (max-width:991px) {
+.news-tagger-salary-deposited .col-md-2 {
+margin-bottom:15px
+}
+.btn-section {
+margin:0;
+overflow:hidden
+}
+.news-tagger .news-tagger-heading h3 {
+font-size:18px
+}
+.news-tagger h3 {
+font-size:20px;
+color:#000;
+}
+.news-tagger .city-name, .news-tagger .bank-name, .news-tagger .car-name {
+font-size:14px
+}
+.icon-bank {
+width:100%
+}
+.twitter-typeahead .tt-query, .twitter-typeahead .tt-hint {
+font-size:18px
+}
+.news-tagger-input {
+font-size:18px
+}
+.news-tagger .news-tagger-contact .contact-less-tab {
+margin:40px 0 0 0
+}
+.input-error-cl {
+font-size:14px
+}
+.input-group .ns-other-city-input {
+font-size:12px
+}
+.news-tagger .radio, .checkbox {
+padding:8px 10px
+}
+.carousel-control.left {
+left:2px
+}
+.carousel-control.right {
+right:2px
+}
+.finalfield .ns-fixed-height {
+min-height:450px
+}
+.news-tagger .city-name, .news-tagger .bank-name, .news-tagger .car-name {
+line-height:normal
+}
+.news-tagger .date-selection {
+min-height:142px
+}
+.news-tagger-doj .table-curved td a, .news-tagger-doj .table-curved th a, .news-tagger-age .table-curved td a, .news-tagger-age .table-curved th a {
+height:25px;
+line-height:25px
+}
+.ui-datepicker td span, .ui-datepicker td a {
+height:25px;
+line-height:25px
+}
+.news-tagger h3, .news-tagger .contact-head {
+margin:20px 0
+}
+.touch-icon {
+margin:0 10px 10px 10px
+}
+.news-tagger-other-city .error.input-error-cl {
+width:175px
+}
+.news-tagger .twitter-typeahead .tt-dropdown-menu {
+width:auto
+}
+.news-tagger .computer-info .twitter-typeahead .tt-dropdown-menu {
+width:100%
+}
+.error-msg {
+width:190px
+}
+.pl-salary-account .icon-bank, .news-tagger-cc .icon-bank {
+width:100px
+}
+.icon-car, .icon-bank {
+width:100px
+}
+.icon-city {
+width:81px
+}
+.news-tagger .bank-name {
+height:auto
+}
+.news-tagger-res .news-tagger-list {
+margin:48px auto 0 auto
+}
+.used-car-loan .news-tagger-res .news-tagger-list {
+margin:23px auto 0 auto
+}
+.news-tagger .news-tagger-salary-deposited .radio, .news-tagger .news-tagger-cc .checkbox {
+padding:8px 0
+}
+.news-tagger .monthly-salary .news-tagger-content .popover {
+display:none
+}
+.news-tagger .property-details-slide .error-msg {
+width:188px;
+margin-top:-15px;
+position:absolute;
+right:5px
+}
+.news-tagger .who-co-appliant-slide .who-co-appliant-info .error-msg {
+margin-right:5px
+}
+.contactMe .ns-fixed-height {
+min-height:300px
+}
+.contactMe .privacy {
+padding-top:10px
+}
+.card-bank .news-tagger-content .validateCC, .card-bank .news-tagger-content .noCard {
+padding:0
+}
+.newstaggered-modal .twitter-typeahead .tt-dropdown-menu {
+width:100%
+}
+}
+ @media only screen and (max-width:767px) {
+.offer-loadings .wrapper {
+height:272px
+}
+.offer-loadings .modal-dialog {
+width:100%;
+margin:0
+}
+.offer-loadings .top {
+left:68px;
+top:168px
+}
+.offer-loadings .bottom {
+bottom:34px;
+left:0
+}
+.offer-loadings .bottom img {
+width:250px
+}
+.offer-loadings .top img {
+width:200px
+}
+.offer-loadings .modal-dialog {
+width:480px;
+margin:10px auto
+}
+.offer-loadings .modal-body {
+padding:20px 0
+}
+.contactMe .news-tagger-container .news-tagger-btn {
+margin:0
+}
+.news-tagger {
+min-height:250px
+}
+.news-tagger-help-md-4, .news-tagger .dob-heading-pc {
+display:none
+}
+.news-tagger .dob-heading-mo {
+display:block
+}
+.news-tagger-container .form-horizontal {
+width:auto;
+margin:0 auto
+}
+.news-tagger .news-tagger-container .news-tagger-help-md-4 {
+float:none;
+margin:0 auto;
+width:290px
+}
+.news-tagger  .news-tagger-other-city {
+margin-bottom:0;
+width:100%
+}
+.news-tagger .news-tagger-city .col-md-2:nth-child(even) {
+border-right:0 solid #ccc
+}
+.table-responsive {
+border:0 solid #ddd;
+width:80%;
+margin:0 auto 15px;
+padding:0
+}
+.pull-left, .pull-right {
+float:none!important
+}
+.news-tagger-exp {
+width:70%
+}
+.news-tagger .news-tagger-contact h3 {
+text-align:center;
+margin:2px 0
+}
+ .mobile-news-tagger-other-city {
+display:none;
+text-align:center;
+overflow:hidden;
+padding:0;
+width:100%
+}
+.news-tagger-other-city, .other-city {
+display:block
+}
+.news-tagger .col-md-2 {
+margin-bottom:45px
+}
+ .news-tagger-city .padding-btm {
+padding-bottom:0
+}
+ .contact-less-tab {
+width:300px;
+margin:0 auto;
+padding:0
+}
+ .news-tagger .news-tagger-contact .contact-less-tab {
+margin:20px auto 0
+}
+ .news-tagger-heading {
+display:block
+}
+ .news-tagger-heading-mobile {
+display:block;
+padding:15px 0
+}
+ .news-tagger .news-tagger-heading h3 {
+text-align:center;
+padding:0
+}
+ .input-group-mo {
+width:290px;
+margin:0 auto
+}
+ .input-hg {
+width:290px;
+margin:0 auto;
+font-size:20px
+}
+ .news-tagger-age-picker-mobile {
+display:block;
+margin-bottom:15px
+}
+ .input-date {
+width:70px
+}
+ .input-month {
+width:80px
+}
+ .input-year {
+width:90px
+}
+ .news-tagger-age-picker-mobile {
+width:342px
+}
+ .news-tagger-age-picker-pc {
+display:none
+}
+ .news-tagger .margin-sm-less-bottom {
+margin-bottom:0
+}
+ .news-tagger .news-tagger-contact {
+margin:10px 0 0
+}
+.private-msg {
+display:none
+}
+.icon-city, .icon-car {
+width:auto
+}
+.input-group.ns-other-city {
+margin:0 auto
+}
+.twitter-typeahead {
+width:290px
+}
+.input-group .ns-other-city-input {
+width:290px
+}
+.ns-other-city .twitter-typeahead .tt-query, .ns-other-city .twitter-typeahead .tt-hint {
+left:0!important
+}
+.input-group .ns-other-city-input {
+width:100%
+}
+.news-tagger-btn .apply {
+padding:8px 25px;
+font-size:18px
+}
+.news-tagger-slider {
+display:none
+}
+.news-tagger-btn .back-button {
+top:inherit
+}
+.news-tagger h3 {
+font-size:20px
+}
+.self-emp-mobile {
+display:block
+}
+.form-control.ns-other-city-input.other-city-required-when-selected.validate.tt-input.error {
+width:100%
+}
+.news-tagger .twitter-typeahead .tt-dropdown-menu {
+width:100%
+}
+.news-tagger-help-md-4 .radio label {
+line-height:10px
+}
+.form-control.news-tagger-input.validate.number.basic-required-text.valid {
+height:53px
+}
+.form-control.news-tagger-input.number.basic-required-text.validate {
+height:53px
+}
+.input-group-hg>.form-control, .input-group-hg>.input-group-addon, .input-group-hg>.input-group-btn>.btn {
+height:53px
+}
+.news-tagger-net-salary .input-group, .news-tagger-emi .input-group, .news-tagger-cc-gti .input-group {
+height:53px
+}
+.icon-bank {
+padding:0
+}
+.col-md-12.text-center.news-tagger-btn .pointing-arrow {
+width:140px;
+margin-top:0
+}
+.did-you-mean-section ul {
+width:100%;
+border-radius:6px!important
+}
+.input-group .ns-other-city-input, .news-tagger-input, .input-group .ns-other-city-input:focus, .news-tagger-input:focus {
+color:#34495e
+}
+.news-tagger .news-tagger-other-city select {
+font-size:10px
+}
+.news-tagger .company-slide {
+background-image:none;
+width:auto
+}
+.company-name .ns-fixed-height {
+min-height:250px
+}
+.news-tagger .computer-info {
+left:auto;
+top:8px;
+width:300px
+}
+.computer-info .input-error-cl {
+top:100px
+}
+.company-name .news-tagger-input {
+height:53px
+}
+.news-tagger .company-slide select {
+height:53px;
+padding:17px 12px;
+margin:-3px 0 0
+}
+.total-exp-mo {
+display:block
+}
+.contact-less-tab fieldset {
+padding:0
+}
+.news-tagger-doj .news-tagger-content {
+width:auto;
+margin:0 auto;
+padding-bottom:10px
+}
+.news-tagger .date-selection {
+width:auto
+}
+.news-tagger .year-picker, .news-tagger .month-picker {
+width:200px
+}
+.news-tagger .total-exp-mo select {
+width:300px;
+margin:0 auto
+}
+.total-exp-mo {
+text-align:center
+}
+.news-tagger-content .others-cc {
+width:100%
+}
+.news-tagger .company-slide .company-radio-option {
+min-height:0
+}
+.icon-bank {
+width:60px
+}
+.input-group.ns-other-city {
+width:100%
+}
+.news-tagger .company-slide .company-options {
+margin-top:10px
+}
+.news-tagger-content {
+padding-top:30px
+}
+.news-tagger .company-slide h3 {
+margin:30px 0
+}
+.news-tagger h3, .news-tagger h3, .news-tagger .contact-head {
+margin:10px 0
+}
+.news-tagger-res .news-tagger-list {
+font-size:12px
+}
+.error-msg {
+/*display:none!important*/
+}
+.error-msg-mo {
+display:block!important;
+position:relative;
+top:-10px
+}
+.news-tagger-other-city .error.input-error-cl {
+width:290px;
+position:absolute;
+z-index:2;
+position:relative;
+left:0
+}
+.news-tagger-content .input-error-cl, .authorize-section .input-error-cl {
+position:absolute;
+width:290px;
+z-index:2
+}
+.company-name .news-tagger-content .input-error-cl {
+position:relative;
+width:290px;
+z-index:0
+}
+.news-tagger-content .input-error-cl, .authorize-section .input-error-cl {
+position:absolute;
+width:290px;
+z-index:2
+}
+.error-msg-mo .input-error-cl {
+position:absolute;
+top:12px;
+z-index:100;
+left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+line-height:normal
+}
+.co-applicant-dob-slide .error-msg-mo .input-error-cl {
+top:-7px
+}
+.error-msg-mo .input-error-cl:after {
+top:60%
+}
+.news-tagger-contact .input-error-cl {
+position:absolute;
+left:0
+}
+.mobile-news-tagger-other-city .error.input-error-cl {
+margin:7px auto 0;
+text-align:left;
+width:290px
+}
+.news-tagger-other-city .error.input-error-cl {
+margin:10px auto 0;
+width:290px;
+text-align:left
+}
+#company-toggle-button .btn-primary:active, #company-toggle-button .btn-primary {
+background-color:#40e0d0
+}
+ .news-tagger-res {
+background-image:none
+}
+ .news-tagger-res .news-tagger-list {
+display:none
+}
+ .news-tagger-res .residence-mo {
+display:block
+}
+ .news-tagger-res .residence-mo {
+width:300px;
+margin:0 auto
+}
+ .news-tagger .news-tagger-salary-deposited .radio {
+padding:8px 10px
+}
+.news-tagger .news-tagger-cc .col-md-offset-13 {
+margin-left:0
+}
+.news-tagger-contact .contact-less-tab .margin-sm-less-bottom {
+margin-bottom:10px
+}
+ .news-tagger-city label {
+margin:5px 0 0 0
+}
+.news-tagger .company-slide .hl-company-slide .company-radio-option .input-error-cl {
+top:36px
+}
+.carousel-inner .bluebg {
+background:#1769aa
+}
+
+}
+@media(max-width:580px) {
+.news-tagger .news-tagger-city {
+margin:0 auto;
+width:100%
+}
+.icon-bank {
+width:70px
+}
+.news-tagger .col-md-2 {
+margin-bottom:0
+}
+.contact-less-tab .news-tagger-help-md-4 {
+display:none
+}
+.news-tagger .month-picker {
+margin-bottom:0
+}
+.dob-sub-heading {
+display:none
+}
+.news-tagger-doj .table-curved td a, .news-tagger-doj .table-curved th a, .news-tagger-age .table-curved td a, .news-tagger-age .table-curved th a {
+height:15px;
+line-height:15px
+}
+.news-tagger .date-selection {
+min-height:70px
+}
+.news-tagger-btn {
+margin:0 0 30px;
+padding:0
+}
+.col-xs-6.col-sm-2.col-md-2.last-col-md-2.news-tagger-other-city {
+margin-bottom:0
+}
+.news-tagger-other-city .error.input-error-cl {
+margin:10px auto 0;
+width:100%;
+width:100%;
+z-index:100
+}
+.news-tagger .pl-salary-account .col-xs-4 {
+height:125px
+}
+.news-tagger .news-tagger-salary-deposited .radio {
+margin:0;
+padding-bottom:2px
+}
+}
+@media only screen and (min-width:320px) and (max-width:767px) {
+.news-tagger .form-inline {
+margin:0 auto;
+text-align:center
+}
+.news-tagger .monthly-salary .news-tagger-content {
+margin:0 auto;
+width:270px
+}
+.news-tagger .monthly-salary .news-tagger-content .input-error-cl {
+width:100%
+}
+.news-tagger-dob input[type='tel'], .news-tagger-content input[type='text'] {
+font-size:16px
+}
+.property-cost .tooltip {
+display:none!important
+}
+.news-tagger .privacy {
+bottom:inherit;
+padding:0 15px;
+position:inherit;
+margin-top:30px
+}
+.home-loan-landing .news-tagger .privacy {
+padding:0
+}
+.news-tagger .authorize-section {
+padding:0 15px
+}
+.home-loan-landing .news-tagger .authorize-section {
+padding:0
+}
+.news-tagger .authorize-section .input-error-cl {
+left:-27px;
+top:20px
+}
+}
+@media(max-width:480px) {
+.offer-loadings .modal-dialog {
+width:100%;
+margin:10px auto
+}
+.screen-block-z-index {
+background:none repeat scroll 0 0 #3dbfd9;
+min-height:640px
+}
+.news-tagger-age-picker-mobile {
+padding:0 27px;
+text-align:center
+}
+.news-tagger-age .news-tagger-age-picker-mobile .news-tagger-dob {
+margin:0 2px;
+float:none;
+display:inline-block;
+vertical-align:middle
+}
+.news-tagger-age .ns-fixed-height {
+min-height:125px
+}
+.news-tagger {
+min-height:640px
+}
+.input-group.ns-other-city {
+width:100%
+}
+.news-tagger .news-tagger-container .news-tagger-help-md-4 {
+padding:0
+}
+.input-group-mo .checkbox, .input-group-mo .radio {
+padding:0
+}
+.container.news-tagger-container {
+width:100%
+}
+.twitter-typeahead {
+width:100%
+}
+.news-tagger .news-tagger-city, .news-tagger .news-tagger-salary-deposited, .news-tagger .existing-cc {
+width:76%;
+margin:0 auto
+}
+.news-tagger .skip-slide {
+padding:1px 10px
+}
+.carousel-control {
+top:60%
+}
+.news-tagger .news-tagger-other-city select {
+font-size:10px
+}
+.input-group.ns-other-city {
+width:100%
+}
+.news-tagger .news-tagger-container .news-tagger-help-md-4 {
+padding:0
+}
+.input-group-mo .checkbox, .input-group-mo .radio {
+padding:0
+}
+.container.news-tagger-container {
+width:100%
+}
+.twitter-typeahead {
+width:100%
+}
+.news-tagger .news-tagger-city, .news-tagger .news-tagger-salary-deposited, .news-tagger .existing-cc {
+width:76%;
+margin:0 auto
+}
+.news-tagger-net-salary .input-group, .news-tagger-emi .input-group, .news-tagger-cc-gti .input-group {
+width:290px;
+margin:0 auto
+}
+.navbar {
+margin-bottom:5px
+}
+.news-tagger-error-msg .error {
+border:2px solid #f00;
+margin:0 auto;
+width:290px
+}
+.salary-bnk-btn {
+margin:0
+}
+.news-tagger .form-inline {
+width:auto
+}
+.news-tagger-sub-head {
+border:1px solid #f00
+}
+.news-tagger-content {
+margin:0 0 10px;
+padding-top:15px
+}
+.input-group-hg>.form-control, .input-group-hg>.input-group-addon, .input-group-hg>.input-group-btn>.btn {
+font-size:16px
+}
+.table-responsive, .news-tagger .news-tagger-heading-two h3 {
+margin:0 auto 10px
+}
+.news-tagger-exp {
+width:90%;
+margin:0 auto 10px
+}
+.news-tagger-list {
+width:250px
+}
+.news-tagger-list .list-group-item {
+float:none;
+width:auto;
+padding:5px
+}
+.news-tagger .form-horizontal .mobile-column-mo {
+display:block;
+margin:0
+}
+.authorize-section .checkbox .icons, .authorize-section .radio .icons {
+top:0
+}
+.mobile-column-mo .col-xs-4 {
+padding:0
+}
+.mobile-column-mo .col-xs-4 span {
+background:#fff;
+box-shadow:0 0 2px #696969 inset;
+border:0 solid #1abc9c;
+border-radius:6px;
+display:block;
+width:70px;
+margin:0 auto 10px;
+text-align:center;
+font-weight:bold;
+cursor:pointer;
+height:40px;
+transition:border 0s linear 0s, color 0s linear 0s, background-color 0s linear 0s
+}
+.mobile-column-mo .col-xs-4 span.disabled {
+background:#dfdfdf;
+border:2px solid #c8c9cb
+}
+.mobile-column-mo .col-xs-4 span:hover {
+background:#1abc9c;
+color:#fff
+}
+.mobile-column-mo .mobile-column-number {
+width:275px;
+margin:0 auto;
+overflow:hidden
+}
+.mobile-no-display {
+display:inline;
+padding:0
+}
+.input-hg {
+padding:4px 5px
+}
+.news-tagger h3, .news-tagger h3, .news-tagger .contact-head {
+font-size:15px;
+margin:10px 0
+}
+.news-tagger .company-slide h3 {
+font-size:15px
+}
+.news-tagger-title-grn h3 {
+margin:20px 0 0;
+font-size:16px
+}
+.news-tagger .city-name, .news-tagger .bank-name, .news-tagger .car-name {
+font-size:12px;
+margin:5px 0;
+height:auto
+}
+.input-hg, .dropdown-style {
+font-size:16px
+}
+.news-tagger-dob-div {
+padding:5px 0
+}
+.news-tagger-contact .news-tagger-title-grn h3 {
+margin:20px 0 0
+}
+.table-responsive {
+width:auto
+}
+.news-tagger .news-tagger-birthdate {
+font-size:14px;
+margin:0 0 10px 0
+}
+.news-tagger .form-group {
+margin:0 auto 10px
+}
+.news-tagger .news-tagger-dropdown {
+margin:0 auto
+}
+.news-tagger .news-tagger-contact {
+margin:0
+}
+.news-tagger .privacy-mobile {
+display:none;
+margin:10px 0 0 0
+}
+.news-tagger .mobile-empty {
+min-height:0
+}
+.privacy p, .privacy-mobile p {
+margin:0 0 5px 0
+}
+.icon-city, .icon-car {
+width:60px
+}
+.ns-fixed-height {
+min-height:200px
+}
+.news-tagger .col-md-2 {
+margin-bottom:0
+}
+.mobile-column-mo h3 {
+margin:0 0 10px
+}
+.news-tagger-salary-deposited .col-md-2 h5 {
+height:24px
+}
+.dob-sub-heading p {
+font-size:14px
+}
+.news-tagger-age-picker-mobile {
+display:block;
+margin-bottom:10px
+}
+.input-date {
+width:60px
+}
+.input-month {
+width:70px
+}
+.input-year {
+width:80px
+}
+.contact-less-tab {
+width:auto
+}
+.icon-title {
+display:inline
+}
+.news-tagger-heading-mo {
+position:relative;
+display:block
+}
+.icon-bank, .pl-salary-account .icon-bank, .icon-car, .news-tagger-cc .icon-bank {
+width:60px
+}
+.input-hg {
+height:40px
+}
+.input-group-hg>.form-control, .input-group-hg>.input-group-addon, .input-group-hg>.input-group-btn>.btn {
+height:53px
+}
+.news-tagger-heading {
+padding:5px 0
+}
+.news-tagger .news-tagger-heading h3, .news-tagger .news-tagger-heading-mo h3 {
+background-color:#40e0d0;
+padding:10px 0;
+font-size:16px;
+padding-left:0;
+text-align:center
+}
+.news-tagger .radio, .checkbox {
+display:block;
+padding:2px 10px
+}
+.news-tagger .radio .icons, .checkbox .icons {
+display:none
+}
+.news-tagger .company-options .radio .icons {
+display:block
+}
+.news-tagger .company-options .radio .icons {
+margin-top:0
+}
+.news-tagger .privacy-mobile .radio, .privacy-mobile .checkbox {
+display:inline
+}
+.checkbox, .radio, .checkbox, .radio:hover {
+transition:color 0s linear 0s
+}
+.navbar {
+min-height:42px
+}
+.logo-section img {
+width:200px
+}
+.dob-heading-pc {
+display:none
+}
+.navbar-brand {
+font-size:24px
+}
+.navbar-toggle {
+line-height:42px;
+height:42px
+}
+.news-tagger .margin-sm-less-bottom {
+margin-bottom:10px
+}
+.news-tagger .margin-sm-less-bottom .margin-sm-less-bottom {
+margin-bottom:0
+}
+.news-tagger-sub-head {
+margin:0 auto 10px;
+width:290px
+}
+.news-tagger-age-picker-mobile {
+width:320px
+}
+.news-tagger .margin-top-less h3 {
+margin-top:0
+}
+.news-tagger-btn .apply {
+padding:8px 25px;
+font-size:16px
+}
+.mobile-news-tagger-other-city {
+overflow:visible;
+clear:both
+}
+.news-tagger .container {
+overflow:visible
+}
+.ns-other-city .twitter-typeahead .tt-dropdown-menu {
+left:0!important;
+width:100%;
+font-size:10px
+}
+.ns-other-city .twitter-typeahead .tt-dropdown-menu .tt-dataset-cities .tt-suggestions p {
+font-size:10px
+}
+.twitter-typeahead .tt-query, .twitter-typeahead .tt-hint {
+font-size:16px;
+height:40px;
+padding:4px 5px
+}
+.news-tagger-input {
+font-size:16px
+}
+.news-tagger .news-tagger-salary-deposited .radio-box {
+display:none
+}
+.news-tagger-heading-mo {
+display:block
+}
+.news-tagger .news-tagger-cc .radio-box .icons {
+display:block
+}
+.news-tagger .news-tagger-cc .city-name {
+display:block
+}
+.news-tagger-other-city, .news-tagger-help-md-4, .mobile-column-pc {
+display:block
+}
+.news-tagger-heading, .privacy {
+display:block
+}
+.news-tagger-age-picker-pc {
+display:none
+}
+.mobile-news-tagger-other-city, .mobile-column-mo {
+display:none
+}
+.news-tagger-contact .mobile-column-pc {
+display:block
+}
+.news-tagger-contact .mobile-column-pc .input-group-hg {
+width:290px;
+margin:0 auto
+}
+.news-tagger-contact .mobile-news-tagger-other-city, .mobile-column-mo {
+display:none
+}
+.privacy-mobile .checkbox .icons, .radio .icons {
+margin-top:-7px
+}
+.news-tagger .authorize-section .radio .icons, .checkbox .icons {
+display:block
+}
+.news-tagger .news-tagger-contact h3 {
+font-size:15px
+}
+.company-name .twitter-typeahead {
+width:100%
+}
+.input-group .ns-other-city-input, .news-tagger-input, .input-group .ns-other-city-input:focus, .news-tagger-input:focus {
+color:#34495e
+}
+.mobile-column-mo .col-xs-4 span {
+color:#34495e;
+font-weight:normal
+}
+.mobile-column-mo .col-xs-4 span:hover {
+background:none repeat scroll 0 0 #f1c40f;
+color:#fff
+}
+.carousel-control {
+font-size:15px;
+height:30px;
+width:30px;
+top:54%
+}
+.carousel-control.right {
+right:5px
+}
+.carousel-control.left {
+left:5px
+}
+.carousel-control .icon-prev, .carousel-control .glyphicon-chevron-left, .carousel-control .icon-next, .carousel-control .glyphicon-chevron-right {
+left:22%;
+top:22%
+}
+.carousel-control {
+text-indent:0
+}
+.news-tagger .news-tagger-contact .contact-less-tab {
+margin:10px 0 0 0
+}
+.news-tagger .news-tagger-contact h3 {
+margin:0 0 10px 0
+}
+.news-tagger .news-tagger-contact .contact-less-tab {
+margin:0 auto;
+width:290px
+}
+.contact-less-tab h3 {
+margin-bottom:5px
+}
+.authorize-section .error {
+display:none
+}
+.news-tagger .news-tagger-heading {
+display:none
+}
+.news-tagger-contact .col-md-12.text-center.news-tagger-btn {
+padding:0
+}
+.privacy>.authorize-section>.checkbox {
+top:-7px
+}
+.did-you-mean-section {
+width:100%;
+margin:0 auto
+}
+.news-tagger .radio-box {
+display:none
+}
+.did-you-mean-section .select .btn {
+height:30px;
+line-height:12px;
+padding:8px 5px;
+font-size:12px
+}
+.did-you-mean-section {
+padding:0
+}
+.did-you-mean-section .select {
+margin-bottom:0
+}
+.news-tagger-other-city {
+margin-top:2px
+}
+.news-tagger-other-city .city-name, .news-tagger-other-city .car-name {
+margin:0
+}
+.news-tagger .input-group-addon .checkbox, .radio {
+padding:5px 10px
+}
+.error-info {
+font-size:14px
+}
+.input-group-mo {
+width:100%
+}
+.news-tagger-input {
+font-size:14px
+}
+.news-tagger-net-salary .input-group, .news-tagger-emi .input-group, .news-tagger-cc-gti .input-group {
+width:100%
+}
+.col-xs-6.col-sm-2.col-md-2.col-xs-12.last-col-md-2 {
+width:100%
+}
+.news-tagger .news-tagger-cc .radio-box {
+display:none
+}
+.news-tagger .news-tagger-contact .form-group {
+overflow:visible
+}
+.input-group-mo {
+width:100%
+}
+.news-tagger-input {
+font-size:14px
+}
+.news-tagger-net-salary .input-group, .news-tagger-emi .input-group, .news-tagger-cc-gti .input-group {
+width:100%
+}
+.col-xs-6.col-sm-2.col-md-2.col-xs-12.last-col-md-2 {
+width:100%
+}
+.news-tagger .news-tagger-cc .radio-box {
+display:none
+}
+.news-tagger .news-tagger-contact .form-group {
+overflow:visible
+}
+.news-tagger-doj .year-picker .table-curved td, .news-tagger-doj .year-picker .table-curved th, .news-tagger-age .year-picker .table-curved td, .news-tagger-age .year-picker .table-curved th {
+padding:2px
+}
+.news-tagger-doj .table-curved td, .news-tagger-doj .table-curved th, .news-tagger-age .table-curved td, .news-tagger-age .table-curved th {
+padding:2px;
+text-align:center
+}
+.news-tagger .total-exp-mo select {
+width:178px
+}
+.residence-mo select {
+width:80%;
+margin:0 auto;
+display:block
+}
+.news-tagger .pl-salary-account .col-xs-4 {
+width:50%;
+min-height:120px
+}
+.news-tagger .company-slide h3 {
+margin:10px 0
+}
+.company-slide .company-radio-option .input-group {
+width:100%
+}
+.news-tagger .company-slide .recommendedSearchImg {
+top:16px
+}
+.news-tagger #prev_resident_city h3 {
+margin:13px 0 20px
+}
+.news-tagger-list img {
+width:20px
+}
+.news-tagger-content {
+margin:2px 0
+}
+.news-tagger-doj .error-msg-mo .input-error-cl {
+width:100%
+}
+.news-tagger-doj .year-picker, .news-tagger .month-picker {
+margin-top:18px;
+width:200px
+}
+.news-tagger-doj .error-msg-mo .error:after {
+right:49%;
+top:58%
+}
+.news-tagger-res .residence-mo {
+width:100%;
+margin:0 auto
+}
+.news-tagger .dropdown-mo {
+width:80%;
+text-align:center
+}
+.news-tagger .pl-salary-account .col-xs-4, .news-tagger .news-tagger-cc .col-xs-4 {
+width:33.3333%;
+padding:0
+}
+.news-tagger .news-tagger-salary-deposited {
+width:auto
+}
+.news-tagger .dob-slide .dob-bg-info .error-msg-mo {
+display:block!important;
+position:relative;
+top:8px
+}
+.news-tagger .dob-slide .dob-bg-info .error-msg-mo .input-error-cl:after {
+top:59%
+}
+.news-tagger .co-applicant-dob-slide .dob-bg-info .error-msg-mo {
+display:block!important;
+position:relative;
+top:38px
+}
+.news-tagger .ownership-divided-slide .error-msg-mo {
+display:block!important;
+position:relative;
+top:-10px
+}
+.news-tagger .my-preferred-car .news-tagger-salary-deposited .bank-name {
+min-height:0
+}
+#carSlide .news-tagger-other-city {
+margin-bottom:0;
+padding:0;
+width:50%
+}
+#carSlide .news-tagger-car-modal div:nth-child(6n), #carSlide .news-tagger-car-modal div:nth-child(7n) {
+display:none
+}
+#carSlide input[type="text"], #cityOtherDiv input[type="text"] {
+font-size:12px
+}
+.news-tagger .car-slide .news-tagger-salary-deposited .bank-name {
+height:auto;
+min-height:30px
+}
+.news-tagger .annual-salary .news-tagger-content {
+width:270px;
+margin:0 auto
+}
+}
+@media only screen and (min-width :460px) and (max-width :767px) {
+.news-tagger .news-tagger-city, .news-tagger .news-tagger-salary-deposited, .news-tagger .existing-cc {
+width:90%;
+margin:0 auto 10px
+}
+.news-tagger-content .col-xs-6.col-sm-2.col-md-2.col-xs-12, .news-tagger-content .col-xs-6.col-sm-2.col-md-2 {
+width:25%
+}
+.col-xs-6.col-sm-2.col-md-2.last-col-md-2.news-tagger-other-city {
+width:100%
+}
+.touch-icon {
+margin:2px 5px
+}
+.news-tagger .radio-box {
+display:none
+}
+.news-tagger-cc-gti .news-tagger-content {
+width:300px;
+margin:0 auto
+}
+.news-tagger-content .col-xs-6.col-sm-2.col-md-2.col-xs-12.last-col-md-2 {
+width:100%
+}
+.news-tagger .privacy {
+padding:0 40px
+}
+.icon-city, .icon-car {
+width:60px
+}
+.news-tagger .col-md-2 {
+margin-bottom:0
+}
+.twitter-typeahead {
+width:100%
+}
+.news-tagger-contact {
+min-height:220px
+}
+.news-tagger .date-selection {
+width:auto
+}
+.news-tagger-list {
+width:405px
+}
+.news-tagger .pl-salary-account .col-xs-4 {
+width:33.3333%;
+min-height:170px
+}
+.news-tagger .privacy {
+bottom:inherit;
+padding:0 15px;
+position:inherit
+}
+.ns-fixed-height {
+min-height:200px
+}
+.carousel-control {
+top:50%
+}
+.news-tagger .total-exp-mo select {
+width:178px
+}
+}
+@media only screen and (min-width :361px) and (max-width :580px) {
+.news-tagger .news-tagger-city, .news-tagger .news-tagger-salary-deposited, .news-tagger .existing-cc {
+margin:0 auto
+}
+.news-tagger-content {
+padding-top:0
+}
+.ns-fixed-height {
+min-height:200px
+}
+.icon-bank, .pl-salary-account .icon-bank, .icon-car, .news-tagger-cc .icon-bank {
+width:60px
+}
+.news-tagger #prev_resident_city h3 {
+margin:2px 0
+}
+.monthly-salary .ns-fixed-height .col-md-12 h3, .news-tagger-age .news-tagger-content, .total-emi .ns-fixed-height .col-md-12 h3 {
+padding-top:0
+}
+.news-tagger .pl-salary-account .col-xs-4 {
+min-height:120px
+}
+}
+.news-tagger input[type=submit], .news-tagger button, .news-tagger .button, .news-tagger .contactMe .button-secondary, .news-tagger .contactMe .news-tagger-btn .apply {
+	font-family:"Lato", Helvetica, Arial, sans-serif;
+	border:0;
+	border-radius:5px;
+	display:inline-block;
+	outline:0;
+	text-align:center;
+-webkit-transition:.1s background-color;
+-moz-transition:.1s background-color;
+-o-transition:.1s background-color;
+transition:.1s background-color;
+	padding:0 25px;
+	height:44px;
+	line-height:44px
+}
+.news-tagger-btn .apply {
+	float:none;
+	font-size:20px;
+	background-color:#eb4912;
+	color:#fff;
+	font-weight:normal!important
+}
+.button-secondary:hover {
+	color:#fcbea9
+}
+.news-tagger-btn .apply:hover {
+	background-color:#d33b07
+}
+.news-tagger-btn .progress-striped {
+	background-image:-webkit-gradient(linear, 0 100%, 100% 0, color-stop(0.25, rgba(255, 255, 255, 0.15)), color-stop(0.25, transparent), color-stop(0.5, transparent), color-stop(0.5, rgba(255, 255, 255, 0.15)), color-stop(0.75, rgba(255, 255, 255, 0.15)), color-stop(0.75, transparent), to(transparent));
+	background-image:-webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+	background-image:-moz-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+	background-image:-o-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+	background-image:linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+	-webkit-background-size:40px 40px;
+	-moz-background-size:40px 40px;
+	-o-background-size:40px 40px;
+	background-size:40px 40px;
+	line-height:normal
+}
+.news-tagger-btn .progress.active {
+	cursor:default;
+	font-size:20px;
+	-webkit-animation:progress-bar-stripes 2s linear infinite;
+	-moz-animation:progress-bar-stripes 2s linear infinite;
+	-ms-animation:progress-bar-stripes 2s linear infinite;
+	-o-animation:progress-bar-stripes 2s linear infinite;
+	animation:progress-bar-stripes 2s linear infinite
+}
+@-webkit-keyframes progress-bar-stripes {
+from {
+background-position:40px 0
+}
+to {
+	background-position:0 0
+}
+}
+@-moz-keyframes progress-bar-stripes {
+from {
+background-position:40px 0
+}
+to {
+	background-position:0 0
+}
+}
+@-ms-keyframes progress-bar-stripes {
+from {
+background-position:40px 0
+}
+to {
+	background-position:0 0
+}
+}
+@-o-keyframes progress-bar-stripes {
+from {
+background-position:0 0
+}
+to {
+	background-position:40px 0
+}
+}
+@keyframes progress-bar-stripes {
+from {
+background-position:40px 0
+}
+to {
+	background-position:0 0
+}
+}
+.news-tagger .close-btn {
+	color:#bec2c1;
+	font-size:16px;
+	position:absolute;
+	right:20px;
+	top:-34px;
+	display:none
+}
+.news-tagger .close-btn.active {
+	display:block
+}
+.news-tagger .close-btn i {
+	padding:0 2px 0 0
+}
+.news-tagger .close-btn:hover {
+	color:#bec2c1
+}
+.news-tagger-res .news-tagger-content .news-tagger-list li label {
+	border:0 none;
+	font-size:12px!important;
+	margin:3px auto 0 auto;
+	overflow:hidden
+}
+.free-perks-inner>em {
+	display:block;
+	font-size:14px;
+	text-align:left
+}
+@media(max-width:320px) {
+.authorize-section .error {
+left:-28px;
+top:20px
+}
+}
+.used-car-loan .art-bg-img .radio .icons {
+	top:10px;
+	color:#bdc3c7;
+	font-size:20px
+}
+.used-car-loan .art-bg-img .radio.checked .second-icon {
+	color:#1abc9c
+}
+.used-car-loan .bg-icons-opacity-pad {
+	padding:2px 5px
+}
+.used-car-loan .tell-me-about-your-car-info .new-car-info .radio {
+	background-image:url(https://cdn5.bankbazaar.com/images/new-car-icon.png);
+	background-repeat:no-repeat
+}
+.used-car-loan .tell-me-about-your-car-info .used-car-info .radio {
+	background-image:url(https://cdn5.bankbazaar.com/images/used-car-icon.png);
+	background-repeat:no-repeat;
+	left:-30px;
+	top:7px
+}
+.used-car-loan .tell-me-about-your-car-info .about-your-car-main-bg {
+	background-image:url(https://cdn5.bankbazaar.com/images/tell-me-about-your-car-bg.png);
+	height:215px;
+	background-size:98%;
+	background-repeat:no-repeat;
+	background-position:7px -2px
+}
+.used-car-loan .pad-none, .used-car-loan .pad-md-none {
+	padding:0
+}
+.news-tagger .tell-me-about-your-car-info {
+	width:815px;
+	margin:80px auto 0
+}
+.used-car-loan .tell-me-about-your-car-info .outside-city-info .radio {
+	background-position:-398px 0
+}
+.used-car-loan .tell-me-about-your-car-info .radio {
+	width:47px;
+	height:77px;
+	padding:0;
+	margin:117px auto 0;
+	cursor:pointer
+}
+.used-car-loan .tell-me-about-your-car-info .radio .bottom-arrow-box {
+	top:-40px;
+	left:-40px;
+	min-width:124px
+}
+.used-car-loan .tell-me-about-your-car-info .bg-opacity {
+	padding:10px
+}
+.used-car-loan .tell-me-about-your-car-info .radio .bottom-arrow-box {
+	top:-40px;
+	left:-40px;
+	min-width:124px
+}
+.used-car-loan .display-block-sm, .used-car-loan .display-block-xs {
+	display:none
+}
+.used-car-loan .content-info-big-icon-middle {
+	margin:60px auto 0
+}
+.used-car-loan .label-icon.checkbox .icons, .used-car-loan .label-icon.radio .icons {
+	color:#fff;
+	margin:10px auto 0;
+	position:relative
+}
+.used-car-loan .bg-opacity {
+	background-color:rgba(255, 255, 255, 0.1)
+}
+.used-car-loan .bg-opacity-1 {
+	padding:10px 20px
+}
+.used-car-loan .bottom-arrow-box {
+	background:none repeat scroll 0 0 white;
+	border-radius:6px;
+	color:#34495e;
+	display:inline-block;
+	min-width:180px;
+	padding:10px;
+	position:relative;
+	text-indent:10px;
+	text-align:center;
+	line-height:1.5
+}
+.used-car-loan .bottom-arrow-box .arrow {
+	border-top-color:#fff
+}
+.used-car-loan .label-icon {
+	cursor:pointer;
+	padding:12px 8px 8px;
+	font-size:14px;
+	margin:5px;
+	line-height:1.5
+}
+.used-car-loan .row {
+	margin:0 auto!important
+}
+.news-tagger .year-manufacture {
+	margin:0 auto;
+	text-align:center;
+	min-height:160px
+}
+.news-tagger .year-manufacture {
+	width:311px
+}
+.news-tagger .year-manufacture td {
+	width:100px
+}
+.used-car-loan .ns-fixed-height {
+	min-height:400px;
+	position:relative
+}
+.used-car-loan .label-icon.checked, .used-car-loan .label-icon:hover {
+	background-color:#40e0d0;
+	border-radius:6px;
+	color:#fff
+}
+.used-car-info .popover.top .arrow, .new-car-info .popover.top .arrow {
+	border-top-color:#fff
+}
+.year-sub-heading {
+	background:none repeat scroll 0 0 #34495e;
+	border-radius:6px;
+	padding:0 0 0 10px
+}
+.year-sub-heading p {
+	margin:0;
+	font-weight:bold;
+	font-size:16px
+}
+.year-sub-heading p span {
+	color:#fff
+}
+.new-tag-select-year .table-curved td, .new-tag-select-year .table-curved th {
+	border-left:1px solid #ddd;
+	border-top:1px solid #ddd;
+	padding:0
+}
+.new-tag-select-year .table-curved td a, .new-tag-select-year .table-curved th a {
+	display:block;
+	color:#34495e;
+	cursor:pointer;
+	height:30px;
+	line-height:30px
+}
+.new-tag-select-year .table-curved .news-tagger-bg:hover, .new-tag-select-year .news-tagger-bg:hover {
+	background:#1abc9c!important;
+	color:#fff
+}
+.new-tag-select-year .year-picker .table-curved td, .new-tag-select-year .year-picker .table-curved th {
+	padding:0;
+	width:100px
+}
+.new-tag-select-year .table-curved td:hover, .new-tag-select-year .table-curved td a:hover, .new-tag-select-year .table-curved th a:hover {
+	background:#c8c8c8;
+	cursor:pointer
+}
+.new-tag-select-year .table-curved .selected:hover, .new-tag-select-year .table-curved .selected:hover {
+	background:#40e0d0;
+	color:#fff
+}
+.new-tag-select-year .news-tagger-content {
+	padding-top:10px
+}
+.used-car-loan .year-manufacture .table-curved td.selected:hover, .used-car-loan .year-manufacture .table-curved td.selected a {
+	background-color:#40e0d0;
+	color:#fff
+}
+@media only screen and (max-width :992px) {
+.used-car-loan .tell-me-about-your-car-info {
+width:640px
+}
+.used-car-loan .tell-me-about-your-car-info .about-your-car-main-bg {
+height:170px
+}
+.used-car-loan .tell-me-about-your-car-info .new-car-info .radio, .used-car-loan .tell-me-about-your-car-info .used-car-info .radio {
+background-position:0 0
+}
+.used-car-loan .ns-fixed-height {
+margin:0 auto
+}
+.used-car-loan .tell-me-about-your-car-info .radio {
+margin:73px auto 0
+}
+.new-tag-select-year .table-curved td a, .new-tag-select-year .table-curved th a, .news-tagger-age .table-curved td a, .news-tagger-age .table-curved th a {
+height:25px;
+line-height:25px
+}
+.news-tagger .news-tagger-cc .cc-others {
+padding:0
+}
+.news-tagger .news-tagger-cc .cc-others .touch-icon {
+margin-bottom:0
+}
+}
+@media only screen and (max-width :767px) {
+.used-car-loan .display-none-sm {
+display:none
+}
+.used-car-loan .display-block-sm {
+display:block
+}
+.used-car-loan .art-bg-img .tell-me-about-your-car-mo-info .radio .icons {
+top:0
+}
+.used-car-loan .art-bg-img .tell-me-about-your-car-mo-info .radio img {
+display:block;
+margin:0 auto
+}
+.used-car-loan .tell-me-about-your-car-info {
+width:auto
+}
+.used-car-loan .art-bg-img .tell-me-about-your-car-mo-info .radio .icons {
+top:0
+}
+.used-car-loan .art-bg-img .tell-me-about-your-car-mo-info .radio img {
+display:block;
+margin:0 auto
+}
+.used-car-loan .tell-me-about-your-car-mo-info {
+width:300px
+}
+.used-car-loan .tell-me-about-your-car-mo-info {
+width:300px
+}
+.news-tagger .year-manufacture {
+width:257px
+}
+.used-car-loan .tell-me-about-your-car-mo-info {
+width:300px
+}
+.used-car-loan .radio.label-icon>img {
+width:100px
+}
+.used-car-loan .art-bg-img .tell-me-about-your-car-mo-info .radio .icons {
+top:0
+}
+.used-car-loan .pad-none, .complete-eligibility-form .pad-md-none {
+padding:14px 0 0 0
+}
+.news-tagger .news-tagger-cc .cc-others {
+width:60%!important;
+padding-top:0;
+margin-bottom:10px
+}
+}
+@media only screen and (min-width :480px) and (max-width :767px) {
+.news-tagger .news-tagger-cc .cc-others {
+width:36%!important;
+padding-top:0;
+margin-bottom:10px
+}
+.news-tagger .news-tagger-cc .cc-others .touch-icon {
+margin:3px 0 0 0
+}
+.news-tagger .news-tagger-cc .cc-others .touch-icon:hover {
+background:none repeat scroll 0 0 #40e0d0
+}
+}
+@media only screen and (max-width :480px) {
+.new-tag-select-year .table-curved td a, .new-tag-select-year .table-curved th a {
+height:15px;
+line-height:15px
+}
+.used-car-loan .tell-me-about-your-car-mo-info {
+width:277px;
+margin:0 auto
+}
+.used-car-loan .radio.label-icon>img {
+width:91px
+}
+.year-sub-heading {
+display:none
+}
+.year-sub-heading p {
+font-size:14px
+}
+.news-tagger #carSlide .news-tagger-salary-deposited .bank-name {
+white-space:normal
+}
+.new-tag-select-year .year-picker .table-curved td, .new-tag-select-year .year-picker .table-curved th {
+padding:2px
+}
+.new-tag-select-year .table-curved td, .new-tag-select-year .table-curved th {
+padding:5px;
+text-align:center
+}
+.news-tagger .news-tagger-cc .cc-others .touch-icon {
+margin:0
+}
+.news-tagger .news-tagger-cc .cc-others .touch-icon:hover {
+background:none repeat scroll 0 0 #40e0d0
+}
+.news-tagger .news-tagger-cc .cc-others {
+padding-top:0;
+margin-bottom:10px
+}
+.news-tagger .news-tagger-cc .checkbox {
+padding:5px 0
+}
+}
+.iphone .contactMe .news-tagger-container .privacy {
+	padding:5px 20px;
+	margin:0 auto;
+	width:90%
+}
+@media only screen and (min-width :1056px) and (max-width :1199px) {
+.news-tagger-btn {
+padding:5px 0 20px
+}
+.news-tagger .ns-other-city {
+margin:5px auto 0
+}
+.news-tagger .input-group-addon .checkbox, .radio {
+padding:5px 10px
+}
+.news-tagger .city-name, .news-tagger .bank-name, .news-tagger .car-name {
+margin-top:5px
+}
+.news-tagger h3, .news-tagger #prev_resident_city h3 {
+margin:5px 0!important
+}
+.news-tagger-res .news-tagger-list {
+margin:37px auto 0
+}
+.ns-fixed-height, .complete-eligibility-form .ns-fixed-height, .health-insurance-elig .ns-fixed-height, .contactMe .news-tagger-container .ns-fixed-height {
+min-height:395px
+}
+.complete-eligibility-form h3 {
+margin:5px 0
+}
+.complete-eligibility-form .item {
+padding-bottom:28px
+}
+.container {
+overflow-x:hidden
+}
+}
+.eligPage .insurance-header .pad-control {
+	padding-left:0
+}
+.insurzone-pretext {
+	float:left;
+	font-size:16px;
+	padding:11px 10px;
+	text-align:left
+}
+.eligPage .izone-section-header .container {
+	background:#fff none repeat scroll 0 0;
+	padding-bottom:10px
+}
+.eligPage .izone-footer {
+	background:#323232 none repeat scroll 0 0;
+	color:#75787c;
+	font-size:14px;
+	font-weight:normal;
+	padding:1% 0;
+	width:100%;
+	min-height:350px
+}
+.eligPage .izone-footer p {
+	font-size:14px;
+	line-height:24px;
+	margin-bottom:0;
+	padding:0;
+	color:#75787c
+}
+.eligPage .izone-footer .irda-approval {
+	margin:10px 0
+}
+.sprite-symbols, .phone_btm .fa, .popup-close {
+	background-image:url(https://cdn5.bankbazaar.com/images/sprite-for-symbols-v3.png);
+	background-repeat:no-repeat
+}
+.symbols-lock {
+	background-position:-9px -110px;
+	display:inline-block;
+	height:14px;
+	width:14px
+}
+.symbols-chevron-left, .symbols-chevron-right {
+	display:inline-block;
+	height:30px;
+	width:30px
+}
+.symbols-chevron-right {
+	background-position:-224px -59px
+}
+.symbols-chevron-left {
+	background-position:-163px -58px
+}
+@media only screen and (max-width :1024px) {
+.eligPage .izone-footer {
+min-height:inherit
+}
+.ipad .news-tagger .news-tagger-birthdate .birth-day-info {
+width:265px
+}
+.ipad .news-tagger .news-tagger-birthdate .birth-day-info input {
+width:120px
+}
+}
+@media only screen and (max-width :767px) {
+.insurzone-pretext {
+padding:10px 10px 0
+}
+}
+@media only screen and (max-width :480px) {
+.symbols-chevron-left {
+background-position:-101px -63px
+}
+.symbols-chevron-right {
+background-position:-133px -63px
+}
+.eligPage .insurance-header .container {
+padding-bottom:5px
+}
+.eligPage .insurance-header .container .pad-control>img {
+max-width:170px
+}
+.insurzone-pretext {
+font-size:12px;
+line-height:normal;
+padding:5px 5px 0
+}
+.carousel-control {
+top:35%
+}
+.news-tagger .car-slide .bank-name {
+min-height:30px
+}
+}
+@media only screen and (max-width :767px) {
+.news-tagger, .news-tagger.complete-eligibility-form {
+background:#1769aa
+}
+.news-tagger .select-from-our-menu, .complete-eligibility-form .bg-opacity {
+background:transparent
+}
+.news-tagger-age-picker-mobile {
+padding-top:13px
+}
+.news-tagger .dob-slide .dob-bg-info .error-msg-mo {
+top:-24px
+}
+.error-msg-mo {
+top:-24px
+}
+}
+@media only screen and (max-width:360px) {
+.used-car-loan .ns-fixed-height {
+min-height:268px
+}
+.error-msg-mo {
+top:-32px
+}
+}
+.email-notification .error-msg {
+	background-color:#f1c40f;
+	border-radius:6px;
+	color:#fff;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 10px 10px 47px;
+	width:auto;
+	margin-top:10px;
+	margin-bottom:0;
+	line-height:normal;
+	position:relative;
+	-moz-animation:bounce 1s 1 alternate;
+	-ms-animation:bounce 1s 1 alternate;
+	-o-animation:bounce 1s 1 alternate;
+	-webkit-animation:bounce 1s 1 alternate;
+	animation:bounce 1s 1 alternate
+}
+.email-notification .error-msg:after {
+	bottom:100%;
+	left:40px;
+	border:solid transparent;
+	content:" ";
+	height:0;
+	width:0;
+	position:absolute;
+	pointer-events:none;
+	border-color:rgba(241, 196, 15, 0);
+	border-bottom-color:#f1c40f;
+	border-width:10px;
+	margin-left:-30px
+}
+.email-notification .error-msg img {
+	left:10px;
+	position:absolute;
+	top:4px
+}
+.email-notification .err-msg {
+	text-align:left
+}
+@media screen and (min-width:768px) and (max-width:1024px) {
+.popover.right .arrow:after {
+border-right-color:transparent
+}
+.popover.bottom .arrow, .popover .arrow:after {
+border-bottom-color:transparent!important
+}
+}/*!
+* Slider for Bootstrap
+*
+* Copyright 2012 Stefan Petre
+* Licensed under the Apache License v2.0
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+*/
+.news-tagger-slider {
+	background:url(https://cdn3.bankbazaar.com/images/slider-bg-newstaggered-v1.png) no-repeat;
+	width:805px;
+	height:70px;
+	margin:0 auto;
+	text-align:center
+}
+.news-tagger-slider .tooltip-inner {
+	background-color:rgba(0, 0, 0, 0);
+	color:#34495e;
+	cursor:pointer;
+	font-size:18px;
+	font-weight:bold;
+	line-height:93px;
+	line-height:120px\9;
+	padding:0;
+	text-align:center;
+	width:auto
+}
+.news-tagger-slider .tooltip.top .tooltip-arrow {
+	border-top-color:transparent
+}
+.news-tagger-slider .tooltip.top {
+	margin-left:-3px
+}
+.news-tagger-age-slider {
+	background:url(https://cdn3.bankbazaar.com/images/slider-bg-newstaggered-v1.png) no-repeat;
+	background-position:-135px -398px;
+	width:522px;
+	margin-bottom:20px
+}
+.news-tagger-slider .tooltip-inner::selection {
+color:#34495e;
+background:transparent
+}
+.news-tagger-slider .tooltip-inner::-moz-selection {
+color:#34495e;
+background:transparent
+}
+.annual-gross-income-slider {
+	background:url(https://cdn3.bankbazaar.com/images/slider-bg-newstaggered-v1.png) no-repeat;
+	background-position:0 -128px;
+	margin:40px auto 0
+}
+.total-emi .news-tagger-slider, .monthly-incentives .news-tagger-slider {
+	width:668px
+}
+.total-emi .news-tagger-slider .slider-min-value, .total-emi .news-tagger-slider .slider-max-value, .monthly-incentives .news-tagger-slider .slider-min-value, .monthly-incentives .news-tagger-slider .slider-max-value {
+	background:url(https://cdn3.bankbazaar.com/images/rupee_icon_small.png) no-repeat scroll 0 6px transparent;
+	color:#34495e;
+	display:inline;
+	left:56px;
+	position:absolute;
+	top:7px;
+	padding-left:12px;
+	line-height:25px;
+	font-size:12px
+}
+.ie8 .total-emi .news-tagger-slider .slider-max-value {
+	background-image:url(https://cdn3.bankbazaar.com/images/rupee_icon_small.png);
+	background-repeat:no-repeat;
+	background-position:0 7px
+}
+.ie8 .total-emi .news-tagger-slider .slider-min-value, .ie8 .total-emi .news-tagger-slider .slider-max-value {
+	top:29px
+}
+.total-emi .news-tagger-slider .slider-max-value, .monthly-incentives .news-tagger-slider .slider-max-value {
+	left:inherit;
+	padding-left:10px
+}
+.ie8 .slider-max-value, .ie8 .slider-min-value {
+	font-size:14px
+}
+.news-tagger-slider.total-emi-slider-bg, .news-tagger-slider.average-monthly-incentives-slider {
+	background:url(https://cdn3.bankbazaar.com/images/slider-bg-newstaggered-v1.png) no-repeat;
+	background-position:-67px -806px;
+	margin:40px auto 0;
+	position:relative
+}
+.news-tagger-slider.total-emi-slider-bg .slider.slider-horizontal, .news-tagger-slider.average-monthly-incentives-slider .slider.slider-horizontal {
+	width:507px
+}
+.total-experience-slider-bg, .complete-eligibility-form .total-experience-slider-bg {
+	background-position:-114px -961px;
+	margin:20px auto 0;
+	width:533px
+}
+.complete-eligibility-form .total-experience-slider-bg {
+	margin:10px auto 0
+}
+.total-experience-slider-bg .slider.slider-horizontal {
+	margin:0 auto 0 14px;
+	width:346px!important
+}
+.complete-eligibility-form .total-experience-slider-bg .slider.slider-horizontal {
+	width:346px!important;
+	margin:10px auto 0 10px;
+	left:0
+}
+.complete-eligibility-form .total-experience-slider-bg .tooltip.top {
+	margin-top:-11px
+}
+.slider {
+	display:inline-block;
+	vertical-align:middle;
+	position:relative
+}
+.slider.slider-horizontal, .annual-gross-income-slider .slider.slider-horizontal {
+	width:605px;
+	height:70px;
+	margin:0 auto 0 5px
+}
+.complete-eligibility-form .slider.slider-horizontal, .select-from-our-menu .slider.slider-horizontal {
+	height:53px;
+	left:47px;
+	width:603px!important;
+	margin:0 auto
+}
+.complete-eligibility-form .joining-month .slider.slider-horizontal {
+	left:13px;
+	width:661px!important
+}
+.complete-eligibility-form .work-exp-slider .slider.slider-horizontal {
+	left:72px;
+	width:350px!important
+}
+.news-tagger-age-slider .slider.slider-horizontal {
+	width:400px;
+	margin:0 auto
+}
+.news-tagger .slider.slider-horizontal .slider-track {
+	height:10px;
+	width:100%;
+	margin-top:-5px;
+	top:50%;
+	left:0
+}
+.complete-eligibility-form.news-tagger .slider.slider-horizontal .slider-track, .news-tagger .select-from-our-menu .slider.slider-horizontal .slider-track {
+	height:53px;
+	width:100%;
+	margin-top:0;
+	top:0;
+	left:0
+}
+.complete-eligibility-form .loan-tagger-slider .slider.slider-horizontal .slider-track {
+	height:53px;
+	width:100%;
+	margin-top:0;
+	top:31px;
+	left:0
+}
+.slider.slider-horizontal .slider-selection, .news-tagger .select-from-our-menu .slider.slider-horizontal .slider-selection {
+	height:100%;
+	top:0;
+	bottom:0
+}
+.slider.slider-horizontal .slider-handle, .news-tagger .select-from-our-menu .slider.slider-horizontal .slider-handle {
+	margin-left:-54px;
+	margin-top:-5px;
+	outline:0;
+	z-index:5
+}
+.complete-eligibility-form .slider.slider-horizontal .slider-handle, .news-tagger .select-from-our-menu .slider.slider-horizontal .slider-handle {
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-repeat:no-repeat;
+	background-position:-56px -500px;
+	height:114px;
+	margin-left:-56px;
+	margin-top:-30px;
+	width:110px;
+	top:auto
+}
+.slider.slider-vertical .slider-handle.triangle {
+	border-width:10px 0 10px 10px;
+	width:1px;
+	height:1px;
+	border-left-color:#0480be;
+	margin-left:0
+}
+.slider.slider-vertical {
+	height:210px;
+	width:20px
+}
+.slider.slider-vertical .slider-track {
+	width:10px;
+	height:100%;
+	margin-left:-5px;
+	left:50%;
+	top:0
+}
+.slider.slider-vertical .slider-selection {
+	width:100%;
+	left:0;
+	top:0;
+	bottom:0
+}
+.slider input {
+	display:none
+}
+.slider .tooltip-inner {
+	white-space:nowrap
+}
+.slider-track {
+	position:absolute;
+	cursor:pointer
+}
+.slider-selection {
+	position:absolute;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box
+}
+.slider-handle {
+	position:absolute;
+	background-color:transparent;
+	background-image:url(https://cdn3.bankbazaar.com/images/slider-bg-newstaggered-v1.png);
+	background-repeat:repeat;
+	background-position:0 -508px;
+	height:96px;
+	width:100px;
+	top:-38px;
+	opacity:.8;
+	border:0 solid transparent
+}
+.slider-handle.round {
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border-radius:20px
+}
+.slider-handle.triangle {
+	background:transparent none
+}
+.news-tagger-slider .tooltip-inner {
+	background-color:transparent
+}
+.complete-eligibility-form .well {
+	padding:7px 19px
+}
+.complete-eligibility-form .joining-year .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .joining-month .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -106px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .work-exp-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:-78px -209px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:522px;
+	margin:0 auto
+}
+.complete-eligibility-form .emi-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -632px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .annual-bonus-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -632px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .monthly-incentives-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -632px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .cost-of-property-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -630px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .net-monthly-salary-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -314px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .fixed-monthly-salary-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -314px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .year-profit-tax-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg.png);
+	background-position:0 -412px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto
+}
+.complete-eligibility-form .well .slider .tooltip, .select-from-our-menu .well .slider .tooltip {
+	opacity:1;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:30px;
+	top:-30px!important
+}
+.complete-eligibility-form .well .slider .tooltip .tooltip-inner, .select-from-our-menu .well .slider .tooltip .tooltip-inner {
+	background-color:transparent;
+	color:#34495e;
+	cursor:pointer
+}
+.complete-eligibility-form .well .slider .tooltip .tooltip-arrow, .select-from-our-menu .well .slider .tooltip .tooltip-arrow {
+	opacity:0
+}
+.total-emi .news-tagger-slider .slider-max-value, .monthly-incentives .slider-max-value {
+	top:6px;
+	right:39px
+}
+.money-need-slider .well {
+	background-color:transparent;
+	background-image:url(https://cdn2.bankbazaar.com/images/loan_landing/slider-bg.png);
+	background-position:0 21px;
+	border:0 solid #e3e3e3;
+	box-shadow:none;
+	width:720px;
+	margin:0 auto;
+	padding:30px 19px;
+	text-align:left
+}
+@media only screen and (max-width:991px) {
+.complete-eligibility-form .slider.slider-horizontal .slider-track {
+height:44px
+}
+.complete-eligibility-form .slider.slider-horizontal {
+height:44px
+}
+.complete-eligibility-form .well .slider .tooltip {
+top:-34px!important
+}
+.news-tagger-slider {
+background:url(https://cdn5.bankbazaar.com/images/slider-tab-bg-v1.png) no-repeat;
+width:705px;
+height:70px;
+margin:0 auto;
+text-align:center
+}
+.news-tagger-slider .tooltip-inner {
+background-color:rgba(0, 0, 0, 0);
+color:#34495e;
+cursor:pointer;
+font-size:16px;
+font-weight:bold;
+line-height:93px;
+padding:0;
+text-align:center;
+width:auto
+}
+.news-tagger-slider .tooltip.top .tooltip-arrow {
+border-top-color:rgba(0, 0, 0, 0)
+}
+.news-tagger-slider .tooltip.top {
+margin-left:-7px;
+margin-top:-9px;
+color:#34495e
+}
+.news-tagger-slider .tooltip.top:focus {
+color:#34495e
+}
+.news-tagger-age-slider {
+background:url(https://cdn5.bankbazaar.com/images/slider-tab-bg-v1.png) no-repeat;
+background-position:-121px -347px;
+width:462px;
+margin-bottom:40px
+}
+.annual-gross-income-slider {
+background:url(https://cdn5.bankbazaar.com/images/slider-tab-bg-v1.png) no-repeat;
+background-position:0 -112px;
+margin:40px auto 0
+}
+.slider.slider-horizontal, .annual-gross-income-slider .slider.slider-horizontal {
+width:520px;
+height:70px;
+margin:0 auto 0 5px
+}
+.news-tagger-age-slider .slider.slider-horizontal {
+width:350px;
+margin:0 auto 0 -5px
+}
+.slider-handle {
+position:absolute;
+background:url(https://cdn5.bankbazaar.com/images/slider-tab-bg-v1.png) repeat scroll 0 -442px rgba(0, 0, 0, 0);
+height:96px;
+width:100px;
+top:-38px;
+opacity:.8;
+border:0 solid transparent
+}
+.total-emi-slider-bg .slider-handle {
+top:-30px
+}
+.total-experience-slider-bg, .complete-eligibility-form .total-experience-slider-bg {
+background:url(https://cdn5.bankbazaar.com/images/slider-tab-bg-v1.png) no-repeat;
+background-position:-98px -838px;
+margin:20px auto 0;
+width:460px
+}
+.total-experience-slider-bg .slider.slider-horizontal, .complete-eligibility-form .total-experience-slider-bg .slider.slider-horizontal {
+margin:0 auto 0 30px;
+width:304px!important
+}
+.complete-eligibility-form .total-experience-slider-bg .slider.slider-horizontal {
+margin:0 auto 0 12px
+}
+.complete-eligibility-form .total-experience-slider-bg .slider.slider-horizontal .slider-handle {
+margin-top:-25px
+}
+.complete-eligibility-form .joining-year .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px 0;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .joining-month .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -86px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .work-exp-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:-62px -172px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+margin:0 auto
+}
+.complete-eligibility-form .work-exp-slider .slider.slider-horizontal {
+left:58px;
+width:290px!important
+}
+.complete-eligibility-form .emi-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -520px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .annual-bonus-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -520px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .monthly-incentives-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -520px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .cost-of-property-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -521px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .net-monthly-salary-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -258px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .fixed-monthly-salary-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -258px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .year-profit-tax-slider .well {
+background-color:transparent;
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:10px -339px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto
+}
+.complete-eligibility-form .slider.slider-horizontal .slider-handle, .news-tagger .money-need-slider .slider.slider-horizontal .slider-handle {
+background-image:url(https://cdn5.bankbazaar.com/images/complete-eligibility-form/hl-slider-bg-tab.png);
+background-position:-45px -407px;
+width:92px;
+height:104px;
+margin-left:-47px
+}
+.complete-eligibility-form .slider.slider-horizontal {
+width:497px!important
+}
+.complete-eligibility-form .joining-month .slider.slider-horizontal {
+left:17px;
+width:548px!important
+}
+.money-need-slider .well {
+background-color:transparent;
+background-image:url(https://cdn1.bankbazaar.com/images/loan_landing/slider-bg-tab.png);
+background-position:10px 14px;
+background-repeat:no-repeat;
+border:0 solid #e3e3e3;
+box-shadow:none;
+width:620px;
+margin:0 auto;
+padding:20px 19px
+}
+.money-need-slider .slider.slider-horizontal {
+width:499px!important
+}
+}
+.select-from-our-menu .new-stagger-heading h1, .select-from-our-menu .new-stagger-heading h3, .select-from-our-menu .new-stagger-heading P {
+	color:#fff;
+	margin:0;
+	padding:10px 0;
+	background:none repeat scroll 0 0 #40e0d0;
+	text-align:center
+}
+.select-from-our-menu h3.bg-opacity-h3 {
+	margin:0 0 10px
+}
+.select-from-our-menu h1, .select-from-our-menu h2, .select-from-our-menu h3 {
+	font-weight:400;
+	text-align:center
+}
+.select-from-our-menu h1 {
+	font-size:20px
+}
+.select-from-our-menu h3 {
+	font-size:26px;
+	margin:19px 0 20px
+}
+.select-from-our-menu {
+	background-color:#3dbfd9;
+	color:#fff;
+	padding:0;
+	position:relative
+}
+.select-from-our-menu .item {
+	padding-bottom:20px
+}
+.select-from-our-menu .label-icon.checkbox .icons, .select-from-our-menu .label-icon.radio .icons {
+	color:#fff;
+	margin:10px auto 0;
+	position:relative
+}
+.select-from-our-menu .label-icon.checkbox.checked .second-icon, .select-from-our-menu .label-icon.radio.checked .second-icon {
+	color:#fff
+}
+.select-from-our-menu .label-icon span {
+	display:block
+}
+.select-from-our-menu .container {
+	position:relative
+}
+.select-from-our-menu .ns-fixed-height {
+	min-height:420px;
+	position:relative
+}
+.select-from-our-menu .news-tagger-btn .apply {
+	background-color:#ed4a13;
+	color:#ffe8e0;
+	font-size:20px;
+	margin:0
+}
+.select-from-our-menu .news-tagger-btn .apply:hover {
+	background-color:#d33b07
+}
+.select-from-our-menu .news-tagger-btn {
+	padding:0 0 43px 0
+}
+.select-from-our-menu .bg-opacity {
+	background-color:rgba(255, 255, 255, 0.1)
+}
+.select-from-our-menu .bg-opacity-1 {
+	padding:10px 20px
+}
+.select-from-our-menu .slider-section {
+	width:740px;
+	margin:0 auto
+}
+.select-from-our-menu .slider-section h3 {
+	margin:0 0 20px
+}
+.select-from-our-menu .custom-container {
+	width:640px
+}
+.select-from-our-menu .label-icon {
+	cursor:pointer;
+	padding:5px;
+	font-size:14px;
+	margin:5px;
+	line-height:1.5
+}
+.select-from-our-menu .label-icon.checked, .select-from-our-menu .label-icon:hover {
+	background-color:#40e0d0;
+	border-radius:6px;
+	color:#fff
+}
+.select-from-our-menu .display-block-sm, .select-from-our-menu .display-block-xs {
+	display:none
+}
+.select-from-our-menu .pad-none, .select-from-our-menu .pad-md-none {
+	padding:0
+}
+.select-from-our-menu select {
+	font-size:14px
+}
+.select-from-our-menu .form-group input[type="text"] {
+	margin-bottom:0;
+	background:none repeat scroll 0 0 #fff!important;
+	border:0 none;
+	box-shadow:0 0 2px #696969 inset;
+	height:42px
+}
+.select-from-our-menu .form-group.focus .input-group-addon, .select-from-our-menu .input-group.focus .input-group-addon {
+	background:none repeat scroll 0 0 #34495e!important
+}
+.select-from-our-menu .input-group-addon {
+	background-color:#34495e;
+	box-shadow:0 0 2px #696969 inset;
+	border:0 none;
+	height:auto;
+	padding:10px 12px
+}
+.select-from-our-menu .bg-opacity-pad {
+	padding:10px;
+	margin-bottom:20px
+}
+.select-from-our-menu .text-box-container {
+	width:350px;
+	margin:0 auto
+}
+.select-from-our-menu .text-box-container-mar {
+	margin:51px auto
+}
+.select-from-our-menu .text-box-container .form-group {
+	margin-bottom:0
+}
+.select-from-our-menu .two-column-slide {
+	width:600px
+}
+.select-from-our-menu .above-five-column .above-five-column-icons {
+	width:762px;
+	margin:0 auto 20px
+}
+.select-from-our-menu .bg-opacity-head h3 {
+	font-size:22px;
+	margin:0 0 20px
+}
+.select-from-our-menu .carousel-inner {
+	overflow:visible;
+	font-size:18px
+}
+.select-from-our-menu .bg-opacity .error:after {
+	right:100%;
+	top:50%;
+	border:solid transparent;
+	content:" ";
+	height:0;
+	top:-20px;
+	left:11px;
+	width:0;
+	position:absolute;
+	pointer-events:none;
+	border-color:rgba(136, 183, 213, 0);
+	border-bottom-color:#f1c40f;
+	border-width:10px
+}
+.select-from-our-menu .bg-opacity .input-error-cl, .select-from-our-menu .computer-info .input-error-cl, .select-from-our-menu .modal-content .input-error-cl {
+	position:absolute;
+	color:#fff;
+	display:block;
+	background:#f1c40f;
+	border-radius:6px;
+	padding:5px;
+	margin-top:10px;
+	margin-bottom:0;
+	line-height:normal;
+	font-weight:bold;
+	width:100%;
+	clear:both;
+	z-index:1000;
+	-moz-animation:bounce 1s 1 alternate;
+	-ms-animation:bounce 1s 1 alternate;
+	-o-animation:bounce 1s 1 alternate;
+	-webkit-animation:bounce 1s 1 alternate;
+	animation:bounce 1s 1 alternate
+}
+.select-from-our-menu .bg-opacity .input-error-cl {
+	position:absolute;
+	color:#fff;
+	display:block;
+	background:#f1c40f;
+	border-radius:6px;
+	padding:5px;
+	margin-top:10px;
+	margin-bottom:0;
+	line-height:normal;
+	font-weight:bold;
+	width:100%;
+	clear:both;
+	z-index:1000;
+	-moz-animation:bounce 1s 1 alternate;
+	-ms-animation:bounce 1s 1 alternate;
+	-o-animation:bounce 1s 1 alternate;
+	-webkit-animation:bounce 1s 1 alternate;
+	animation:bounce 1s 1 alternate
+}
+.select-from-our-menu .bg-opacity-drop {
+	margin:20px auto;
+	width:392px
+}
+.select-from-our-menu .bg-opacity-drop .form-group {
+	margin-bottom:0
+}
+.select-from-our-menu .bg-opacity-drop select {
+	width:100%
+}
+.select-from-our-menu .radio, .select-from-our-menu .checkbox {
+	cursor:pointer
+}
+.select-from-our-menu .input-help-msg .input-group-addon:not(:first-child):not(:last-child), .input-group-btn:not(:first-child):not(:last-child), .input-group .form-control:not(:first-child):not(:last-child) {
+border-radius:0 6px 6px 0
+}
+.select-from-our-menu .five-column-slide {
+	width:880px
+}
+.select-from-our-menu .five-column-slide .col-md-2 {
+	width:168px
+}
+.select-from-our-menu .input-group .form-control:first-child {
+	border-radius:0 6px 6px 0
+}
+.select-from-our-menu .content-info-img-middle {
+	margin:80px auto 0
+}
+.select-from-our-menu .content-info-big-icon-middle {
+	margin:42px auto 0
+}
+.select-from-our-menu .default-cluetip-left .tooltip {
+	left:-145px;
+	top:40px
+}
+.select-from-our-menu .default-cluetip-right .tooltip {
+	right:-145px;
+	top:40px
+}
+.select-from-our-menu .tooltip.right .tooltip-arrow {
+	border-right-color:#7af8bd
+}
+.select-from-our-menu .tooltip.left .tooltip-arrow {
+	border-left-color:#7af8bd
+}
+.select-from-our-menu .tooltip-inner {
+	background-color:#7af8bd;
+	color:#009e43;
+	padding:10px 20px;
+	width:214px;
+	max-width:214px;
+	vertical-align:middle;
+	text-align:center
+}
+.select-from-our-menu .above-five-column-wrapper .radio img {
+	width:92px
+}
+.select-from-our-menu .col-md-offset-13 {
+	margin-left:13%
+}
+.select-from-our-menu .above-five-column-icons .radio img {
+	width:92px
+}
+.select-from-our-menu select {
+	background:#fff url(https://cdn5.bankbazaar.com/images/loan_landing/dropdown-arrow.png) no-repeat right 10px center!important;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+	border:0 none;
+	border-radius:6px;
+	box-shadow:0 0 2px #696969 inset;
+	color:#34495e;
+	height:45px;
+	width:100%;
+	padding:12px;
+	line-height:normal
+}
+.select-from-our-menu select {
+	font-size:14px
+}
+.select-from-our-menu .error-msg .input-error-cl {
+	z-index:999
+}
+.select-from-our-menu .news-tagger-btn .apply.loading-circle, .news-tagger .contactMe .news-tagger-btn .loading-circle {
+	padding-left:40px;
+	background-image:url(https://cdn1.bankbazaar.com/images/complete-eligibility-form/loading-circle.gif);
+	background-repeat:no-repeat;
+	background-position:10px 10px
+}
+@media only screen and (max-width :1400px) {
+.select-from-our-menu .radio.label-icon>img {
+width:108px
+}
+.select-from-our-menu .radio.label-icon-big>img {
+width:148px
+}
+.select-from-our-menu .default-cluetip-left .tooltip {
+left:-151px;
+top:40px
+}
+.select-from-our-menu .default-cluetip-right .tooltip {
+right:-154px;
+top:40px
+}
+}
+@media only screen and (max-width :1150px) {
+.select-from-our-menu .two-column-slid {
+width:500px
+}
+.select-from-our-menu .default-cluetip-left .tooltip {
+left:-177px;
+top:40px
+}
+.select-from-our-menu .default-cluetip-right .tooltip {
+right:-177px;
+top:40px
+}
+}
+@media only screen and (max-width :992px) {
+.select-from-our-menu h1 {
+font-size:18px
+}
+.select-from-our-menu h3 {
+font-size:20px
+}
+.select-from-our-menu .bg-opacity-head h3 {
+font-size:20px
+}
+.select-from-our-menu .news-tagger-btn .apply {
+font-size:18px;
+line-height:normal
+}
+.select-from-our-menu .five-column-slide .col-md-2 {
+width:33.3%
+}
+.select-from-our-menu .five-column-slide .col-sm-6 {
+width:50%
+}
+.select-from-our-menu .above-five-column .above-five-column-icons {
+width:640px
+}
+.select-from-our-menu .slider-section {
+width:620px
+}
+.select-from-our-menu .tooltip-inner {
+width:140px
+}
+.select-from-our-menu .default-cluetip-left .tooltip {
+left:-102px;
+top:17px
+}
+.select-from-our-menu .default-cluetip-right .tooltip {
+right:-104px;
+top:17px
+}
+.select-from-our-menu .tooltip.fade.left.in, .select-from-our-menu .tooltip.fade.right.in {
+opacity:0
+}
+}
+@media only screen and (max-width :991px) {
+.select-from-our-menu .custom-sm-container {
+width:640px;
+margin:0 auto
+}
+.select-from-our-menu .loan-looking-for-slide .label-icon {
+margin:5px;
+padding:0
+}
+}
+@media only screen and (max-width :767px) {
+.select-from-our-menu .display-none-sm {
+display:none
+}
+.select-from-our-menu .display-block-sm {
+display:block
+}
+.select-from-our-menu .ns-fixed-height {
+width:84%;
+margin:0 auto
+}
+.select-from-our-menu .bg-opacity {
+margin:0 0 10px;
+padding:10px
+}
+.select-from-our-menu .slider-section {
+width:auto
+}
+.select-from-our-menu .col-md-offset-13 {
+margin-left:0
+}
+.select-from-our-menu .form-group {
+margin-bottom:0
+}
+.select-from-our-menu .content-info-big-icon-middle {
+margin:10px auto 0
+}
+.select-from-our-menu .radio.label-icon>img {
+width:100px
+}
+.select-from-our-menu .text-box-container {
+width:100%
+}
+.select-from-our-menu .custom-container, .select-from-our-menu .custom-sm-container {
+width:530px
+}
+.select-from-our-menu .radio-xs-none .text-center .radio .icons {
+display:none
+}
+.select-from-our-menu .two-column-slide {
+width:300px
+}
+.select-from-our-menu .bg-opacity-drop {
+width:100%
+}
+.select-from-our-menu .three-column .text-center {
+padding:0
+}
+.select-from-our-menu .three-column .content-info-img-middle {
+margin:30px auto
+}
+.select-from-our-menu .content-info-middle {
+margin:30px auto
+}
+.select-from-our-menu .three-column .error-sec-mo {
+display:block
+}
+.select-from-our-menu .tooltip {
+display:none
+}
+}
+@media only screen and (max-width :640px) {
+.select-from-our-menu .custom-container, .select-from-our-menu .custom-sm-container {
+width:auto
+}
+}
+@media only screen and (max-width :480px) {
+.select-from-our-menu h3 {
+margin:10px 0
+}
+.select-from-our-menu h1 {
+font-size:16px
+}
+.select-from-our-menu h3 {
+font-size:15px;
+margin:10px 0
+}
+.select-from-our-menu .slider-section h3 {
+margin:0 0 5px 0
+}
+.select-from-our-menu .news-tagger-btn .apply {
+font-size:16px;
+padding:8px 25px;
+line-height:16px;
+height:auto;
+min-height:25px
+}
+.select-from-our-menu .bg-opacity-head .checkbox, .select-from-our-menu .bg-opacity-head h3 {
+font-size:14px
+}
+.select-from-our-menu .bg-opacity-head h3 {
+margin:0 0 10px
+}
+.select-from-our-menu .carousel-control.left {
+left:5px
+}
+.select-from-our-menu .carousel-control.right {
+right:5px
+}
+.select-from-our-menu .carousel-control {
+font-size:14px;
+height:30px;
+line-height:24px;
+width:30px
+}
+.select-from-our-menu .custom-container label {
+font-size:14px;
+word-wrap:break-word
+}
+.select-from-our-menu .bg-opacity {
+padding:10px
+}
+.select-from-our-menu .bg-opacity-1 {
+padding:0 10px
+}
+.select-from-our-menu .bg-opacity-1 .label-icon {
+padding:2px
+}
+.select-from-our-menu h3.bg-opacity-h3 {
+margin:0 0 10px;
+font-size:14px
+}
+.select-from-our-menu .radio.label-icon>img {
+width:60px
+}
+.select-from-our-menu .two-column-slide {
+width:242px
+}
+.select-from-our-menu .above-five-column .add-co-applicant {
+margin:10px auto
+}
+.select-from-our-menu .flatui-dropdown .btn {
+width:85%
+}
+}
+@media only screen and (max-width :360px) {
+.select-from-our-menu .ns-fixed-height {
+min-height:150px
+}
+.select-from-our-menu .two-column-slide.content-info-big-icon-middle {
+margin-top:0
+}
+.select-from-our-menu .above-five-column-wrapper.co-applicant-slide .error-msg-mo {
+display:block!important;
+position:relative;
+top:27px
+}
+}
+@media only screen and (min-width :361px) and (max-width :767px) {
+.select-from-our-menu .ns-fixed-height {
+min-height:400px
+}
+.select-from-our-menu .mo-landscape-icon .col-xs-6.text-center {
+width:50%
+}
+.select-from-our-menu .two-column-slide.content-info-big-icon-middle {
+margin-top:10%
+}
+}
+@media only screen and (min-width :361px) and (max-width :481px) {
+.select-from-our-menu .ns-fixed-height {
+min-height:150px
+}
+}
+@-moz-document url-prefix() {
+.select-from-our-menu select {
+background-image:none!important
+}
+}
+@media only screen and (max-width :767px) {
+.news-tagger .select-from-our-menu .bg-opacity {
+background:transparent
+}
+}
+.newstaggered-modal .form-group input[type="text"], .newstaggered-modal .form-group input[type="text"]:focus {
+	background:none repeat scroll 0 0 #fff;
+	border:0 none;
+	border-radius:0 6px 6px 0;
+	box-shadow:0 0 2px #696969 inset!important;
+	font-size:14px;
+	height:42px;
+	text-align:left;
+	text-transform:uppercase
+}
+.newstaggered-modal .modal-body p {
+	color:#646464;
+	text-align:center;
+	margin:5px 0
+}
+.newstaggered-modal .other-dd-close {
+	color:#fff;
+	cursor:pointer;
+	font-size:26px;
+	font-weight:lighter;
+	line-height:22px;
+	position:absolute;
+	right:10px;
+	top:5px
+}
+.newstaggered-modal .modal-dialog {
+	width:950px
+}
+.newstaggered-modal .modal-dialog .close {
+	opacity:1;
+	outline:0;
+	padding:0;
+	height:auto;
+	line-height:1
+}
+.newstaggered-modal .modal-dialog .top-close {
+	background-color:#fff;
+	border-radius:3px;
+	padding:0 4px;
+	font-size:20px;
+	position:absolute;
+	top:-21px;
+	right:-17px
+}
+.newstaggered-modal .modal-dialog .bottom-close {
+	bottom:0;
+	color:#5dade2;
+	display:block;
+	font-size:14px;
+	text-decoration:underline
+}
+.newstaggered-modal .modal-body {
+	padding:10px 10px 5px 10px
+}
+.news-tagger .newstaggered-modal .form-group {
+	margin:0 auto 10px
+}
+.newstaggered-modal .other-city {
+	margin:0 auto;
+	float:none;
+	margin-bottom:5px;
+	padding-top:0
+}
+.newstaggered-modal .other-dd-container {
+	border:1px solid #ccc;
+	border-radius:10px;
+	background:#fff;
+	float:right;
+	z-index:1000;
+	width:100%
+}
+.newstaggered-modal .other-dd-container h5 {
+	padding:10px 21px;
+	margin:0;
+	background:#34495e;
+	color:#fff;
+	font-size:16px;
+	border-radius:10px 10px 0 0
+}
+.newstaggered-modal .other-dd-wrapper {
+	padding:15px 10px
+}
+.newstaggered-modal .other-dd-category {
+	background:#ececec;
+	color:#000;
+	text-align:left;
+	padding:2px 7px;
+	text-transform:uppercase
+}
+.newstaggered-modal .other-dd-category>img {
+	margin-left:10px
+}
+.newstaggered-modal .other-dd-category>span {
+	vertical-align:middle
+}
+.newstaggered-modal .other-dd-list {
+	list-style:none;
+	margin:0 5px;
+	height:auto;
+	padding:0;
+	float:left;
+	width:140px
+}
+.newstaggered-modal .other-dd-list li {
+	font-size:12px;
+	line-height:22px;
+	text-align:left
+}
+.newstaggered-modal .other-dd-list li a {
+	display:block;
+	color:#646464;
+	font-size:14px;
+	padding-left:7px;
+	line-height:20px;
+	cursor:pointer;
+	word-wrap:break-word
+}
+.newstaggered-modal .other-dd-list li a:hover {
+	background:#3fe0d0;
+	color:#fff
+}
+.newstaggered-modal .other-city-out-side-of-india {
+	border:0;
+	width:100%;
+	padding:10px 19px 10px 9px
+}
+.newstaggered-modal .other-city-out-side-of-india .other-dd-list {
+	width:100%
+}
+.newstaggered-modal .pad-none {
+	padding:0
+}
+.newstaggered-modal .dropdown-city .dontshow {
+	display:none
+}
+.news-tagger .newstaggered-modal select {
+	background:url(https://cdn2.bankbazaar.com/images/complete-eligibility-form/dropdown-arrow.png) no-repeat right 10px center!important;
+	height:auto;
+	padding:12px;
+	margin-bottom:10px;
+	width:100%;
+	line-height:normal;
+	outline:0;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none
+}
+.news-tagger .car-slide .newstaggered-modal .input-group-addon {
+	padding:0 9px
+}
+.news-tagger .newstaggered-modal .input-group-addon {
+	height:auto;
+	padding:10px 12px;
+	width:1%
+}
+.news-tagger .newstaggered-modal .news-tagger-content {
+	padding-top:0;
+	line-height:normal;
+	min-height:auto
+}
+.newstaggered-modal .news-tagger-content .input-error-cl {
+	margin-bottom:0;
+	position:relative
+}
+.newstaggered-modal .cl-slider-elb-form {
+	line-height:normal
+}
+.news-tagger-other-city .form-control[readonly], .news-tagger-other-city .form-control[readonly] {
+	background-color:#fff;
+	color:#34495e;
+	cursor:text;
+	opacity:1
+}
+.news-tagger .car-slide .newstaggered-modal .input-group-addon img {
+	max-width:none
+}
+@media only screen and (max-width :862px) {
+.newstaggered-modal .modal-dialog {
+width:768px
+}
+.newstaggered-modal .other-dd-list {
+width:110px
+}
+.newstaggered-modal .modal-dialog .close {
+right:12px;
+top:-20px
+}
+.newstaggered-modal .other-dd-list li a {
+text-overflow:ellipsis;
+white-space:nowrap;
+width:112px;
+overflow:hidden
+}
+}
+@media only screen and (max-width :767px) {
+.newstaggered-modal .modal-dialog {
+margin:32px 0;
+width:100%
+}
+.newstaggered-modal .other-dd-list {
+width:48%;
+margin:0 1%
+}
+.newstaggered-modal .other-dd-list li a {
+width:auto;
+white-space:normal
+}
+}
+@media only screen and (min-width:600px) and (max-width:640px) {
+.newstaggered-modal .other-dd-list {
+display:inline-block;
+float:none
+}
+.newstaggered-modal .other-dd-list:nth-child(1), .newstaggered-modal .other-dd-list:nth-child(2), .newstaggered-modal .other-dd-list:nth-child(3) {
+clear:left;
+float:left
+}
+.newstaggered-modal .other-dd-list:nth-child(4), .newstaggered-modal .other-dd-list:nth-child(5), .newstaggered-modal .other-dd-list:nth-child(6) {
+clear:right
+}
+.newstaggered-modal .other-dd-list:nth-child(5), .newstaggered-modal .other-dd-list:nth-child(6) {
+margin-top:-10px
+}
+}
+@media only screen and (max-width :340px) {
+.newstaggered-modal .other-dd-list li a {
+white-space:nowrap;
+width:112px
+}
+}
+.sprite-carlogo {
+	background-image:url(https://cdn1.bankbazaar.com/images/landing_page/sprite-carlogo.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	margin-left:10px;
+	background-position:0 150px;
+	height:16px
+}
+.icon-ASHOK-LEYLAND {
+	background-position:-5px -5px;
+	width:16px
+}
+.icon-ASTON-MARTIN {
+	background-position:-31px -5px;
+	width:34px;
+	height:13px
+}
+.icon-AUDI {
+	background-position:-75px -5px;
+	width:27px
+}
+.icon-BAJAJ {
+	background-position:-112px -5px;
+	width:17px
+}
+.icon-BENTLEY {
+	background-position:-139px -5px;
+	width:49px
+}
+.icon-BMW {
+	background-position:-198px -5px;
+	width:16px
+}
+.icon-BUGATTI {
+	background-position:-5px -31px;
+	width:32px
+}
+.icon-CADILLAC {
+	background-position:-47px -31px;
+	width:17px
+}
+.icon-CHEVROLET {
+	background-position:-74px -31px;
+	width:31px;
+	height:12px
+}
+.icon-DAEWOO-MOTORS {
+	background-position:-115px -31px;
+	width:21px
+}
+.icon-DATSAN {
+	background-position:-146px -31px;
+	width:30px
+}
+.icon-DATSUN {
+	background-position:-186px -31px;
+	width:30px
+}
+.icon-DODGE {
+	background-position:-5px -57px;
+	width:29px
+}
+.icon-EICHER {
+	background-position:-44px -57px;
+	width:24px
+}
+.icon-ENDEVOR {
+	background-position:-78px -57px;
+	width:31px;
+	height:12px
+}
+.icon-ESTD {
+	background-position:-119px -57px;
+	width:30px;
+	height:10px
+}
+.icon-FERRARI {
+	background-position:-159px -57px;
+	width:10px
+}
+.icon-FIAT {
+	background-position:-179px -57px;
+	width:16px
+}
+.icon-FORCE {
+	background-position:-205px -57px;
+	width:16px
+}
+.icon-FORD {
+	background-position:-5px -83px;
+	width:37px;
+	height:15px
+}
+.icon-HINDUSTAN-MOTORS {
+	background-position:-52px -83px;
+	width:27px
+}
+.icon-HONDA {
+	background-position:-89px -83px;
+	width:20px
+}
+.icon-HUMMER {
+	background-position:-119px -83px;
+	width:58px;
+	height:8px
+}
+.icon-HYUNDAI {
+	background-position:-187px -83px;
+	width:31px;
+	height:15px
+}
+.icon-ICML {
+	background-position:-5px -108px;
+	width:19px
+}
+.icon-JAGUAR {
+	background-position:-119px -101px;
+	width:42px
+}
+.icon-LAMBORGHINI {
+	background-position:-171px -108px;
+	width:14px
+}
+.icon-LAND-ROVER {
+	background-position:-195px -108px;
+	width:30px
+}
+.icon-MAHINDRA {
+	background-position:-5px -134px;
+	width:33px;
+	height:15px
+}
+.icon-MAHINDRA-RENAULT {
+	background-position:-48px -134px;
+	width:62px
+}
+.icon-MAHINDRA-SSANGYONG {
+	background-position:-120px -134px;
+	width:55px
+}
+.icon-MARUTI {
+	background-position:-185px -134px;
+	width:16px
+}
+.icon-MARUTI-SUZUKI {
+	background-position:-5px -160px;
+	width:34px
+}
+.icon-MASERATI {
+	background-position:-211px -134px;
+	width:12px
+}
+.icon-MAYBACH {
+	background-position:-49px -160px;
+	width:22px
+}
+.icon-MERCEDES-BENZ {
+	background-position:-81px -160px;
+	width:16px
+}
+.icon-MINI {
+	background-position:-107px -160px;
+	width:38px
+}
+.icon-MITSUBISHI {
+	background-position:-155px -160px;
+	width:18px
+}
+.icon-NISSAN {
+	background-position:-183px -160px;
+	width:19px
+}
+.icon-OPEL {
+	background-position:-5px -186px;
+	width:21px
+}
+.icon-PORSCHE {
+	background-position:-36px -186px;
+	width:14px
+}
+.icon-PREMIER {
+	background-position:-60px -186px;
+	width:25px
+}
+.icon-PREMIER-AUTOMOBILES {
+	background-position:-95px -186px;
+	width:25px
+}
+.icon-RENAULT {
+	background-position:-130px -186px;
+	width:16px
+}
+.icon-ROLLS-ROYCE {
+	background-position:-212px -160px;
+	width:12px;
+	height:20px
+}
+.icon-SAAB-AUTOMOBILES {
+	background-position:-224px -5px;
+	width:71px
+}
+.icon-SAN-MOTORS {
+	background-position:-226px -31px;
+	width:15px
+}
+.icon-SKODA {
+	background-position:-251px -31px;
+	width:16px
+}
+.icon-SSANGYONG-MOTOR {
+	background-position:-277px -31px;
+	width:26px
+}
+.icon-SUBARU {
+	background-position:-231px -57px;
+	width:29px
+}
+.icon-TATA {
+	background-position:-270px -57px;
+	width:24px;
+	height:17px
+}
+.icon-TOYOTA {
+	background-position:-235px -84px;
+	width:24px
+}
+.icon-TVS {
+	background-position:-156px -190px;
+	width:87px
+}
+.icon-VOLKSWAGEN {
+	background-position:-269px -84px;
+	width:16px
+}
+.icon-VOLVO {
+	background-position:-34px -110px;
+	width:35px;
+	height:5px
+}
+.sprite-gender {
+	height: 200px;
+	display: inline-block;
+	width: 200px;
+	vertical-align: middle;
+	border-radius: 100px;
+	border: 3px solid #FB6C2B;
+}
+.icon-net {
+	background: url(../images/net.png) no-repeat;
+	background-size: contain !important;
+	background-position: center center;
+}
+.icon-gross {
+	background: url(../images/gross.png) no-repeat;
+	background-size: contain !important;
+	background-position: center center;
+}
+ @media only screen and (max-width:767px) {
+.sprite-gender {
+height:120px;
+}
+ .icon-net {
+background: url(../images/net1.png) no-repeat;
+}
+ .icon-gross {
+background: url(../images/gross1.png) no-repeat;
+}
+}
+.sprite-bank-desk {
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:130px;
+	height:130px;
+	vertical-align:middle;
+	border-radius: 100px;
+	border: 3px solid #FB6C2B;
+	/*background-size: contain !important;*/
+}
+.icon-bank-12 {
+	background: url(../images/loan1.png);
+}
+.icon-bank-2 {
+	background: url(../images/loan2.png);
+}
+.icon-bank-39 {
+	background: url(../images/loan3.png);
+}
+.icon-bank-5 {
+	background: url(../images/loan4.png);
+}
+.icon-bank-57 {
+	background: url(../images/product-icons/home_sale.jpg);
+}
+.icon-bank-92 {
+	background: url(../images/loan6.png);
+}
+.Resale-Purchase-2011{
+    background: url(../images/loan6.png);
+}
+.Commercial-Mortgage-2012{
+     background: url(../images/product-icons/mortgage.jpg);
+}
+.Resale-Purchase-2012{
+    background: url(../images/loan5.png);
+}
+.Balance-Transfer-2016{
+    background: url(../images/product-icons/balance-transfer.jpg);
+}
+.Top-Up-2018{
+   background: url(../images); 
+}
+.balancetransfer2015{
+     background:url(../images/product-icons/mortgage_bt.jpg);
+}
+.Top-Up-2018{
+     background:url(../images/product-icons/mortgage_plot.jpg);
+}
+.salaryAccount-2014{
+    background:url(../images/product-icons/mortgage-doc.jpg);
+}
+.Resale-Puchase-2013{
+    background: url(../images/product-icons/construction-document.jpg);
+}
+.Loan-Extension-2019{
+  background: url(../images/loan10.png);  
+}
+.icon-bank-96 {
+	background: url(../images/loan7.png);
+}
+.icon-bank-999 {
+	background: url(../images/product-icons/plot_construction.jpg);
+}
+.icon-receive {
+	background: url(../images/loan9.png);
+}
+.icon-receive-cash {
+	background: url(../images/product-icons/balancetransfer.jpg);
+}
+.icon-bank-Allahabad {
+	background:url(../images/bank_logo/allahabad-bank.png) center  no-repeat;
+}
+.icon-bank-Andhra
+{
+background:url(../images/bank_logo/andhra-bank.png) center  no-repeat #fff;
+} 
+.icon-bank-axis
+{
+background:url(../images/bank_logo/Axis-Bank.png) center  no-repeat #fff;
+}
+.icon-bank-bob
+{
+background:url(../images/bank_logo/Bank-of-Baroda.png) center  no-repeat #fff;
+} 
+.icon-bank-boi
+{
+background:url(../images/bank_logo/Bank-of-India.png) center  no-repeat #fff;
+}
+.icon-bank-canara
+{
+background:url(../images/bank_logo/Canara-Bank.png) center  no-repeat #fff;
+} 
+.icon-bank-centerl-bank
+{
+background:url(../images/bank_logo/Central-Bank-of-India.png) center  no-repeat #fff;
+}  
+.icon-bank-city
+{
+background:url(../images/bank_logo/citibank.png) center  no-repeat #fff;
+}
+
+.icon-bank-corp
+{
+background:url(../images/bank_logo/Corporation-Bank.png) center  no-repeat #fff;
+} 
+
+.icon-bank-dena
+{
+background:url(../images/bank_logo/Dena-Bank.png) center  no-repeat #fff;
+} 
+
+.icon-bank-dhfl
+{
+background:url(../images/bank_logo/DHFL.png) center  no-repeat #fff;
+} 
+
+.icon-bank-first
+{
+background:url(../images/bank_logo/First-Blue-Home-Finance.png) center  no-repeat #fff;
+}       
+
+
+ @media only screen and (max-width:767px) {
+/*.sprite-bank-desk {
+background-image:url(https://cdn3.bankbazaar.com/images/mobile/landing_page/sprite-bank-desk.png);
+width:58px;
+height:58px
+}
+.icon-bank-12 {
+background-position:-6px -6px
+}
+.icon-bank-2 {
+background-position:-76px -6px
+}
+.icon-bank-39 {
+background-position:-146px -6px
+}
+.icon-bank-5 {
+background-position:-6px -76px
+}
+.icon-bank-57 {
+background-position:-76px -76px
+}
+.icon-bank-92 {
+background-position:-146px -76px
+}
+.icon-bank-96 {
+background-position:-6px -146px
+}
+.icon-bank-999 {
+background-position:-76px -146px
+}
+.icon-receive {
+background-position:-146px -146px
+}
+.icon-receive-cash {
+background-position:-216px -6px
+}*/
+}
+.sprite-city {
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:150px;
+	height:150px;
+}
+.icon-city-bangalore {
+	background-position:-2px -2px
+}
+.icon-city-chennai {
+	background-position:-138px -2px
+}
+.icon-rs {
+	background: url(../images/rs.png);
+	border-radius: 100px;
+	border: 3px solid #FB6C2B;
+}
+
+.icon-gsincome {
+	background: url(../images/product-icons/net_income_icon.jpg) center no-repeat ;
+	border-radius: 100px;
+	border: 3px solid #FB6C2B;
+}
+.icon-net_income {
+	background: url(../images/product-icons/net_incomes.jpg) center no-repeat ;
+	border-radius: 100px;
+	border: 3px solid #FB6C2B;
+}
+
+
+.icon-se {
+	background: url(../images/se.png);
+	border-radius: 100px;
+	border: 3px solid #FB6C2B;
+}
+.icon-nri {
+	background: url(../images/nri.png);
+	border-radius: 100px;
+	border: 3px solid #FB6C2B;
+}
+.icon-city-other {
+	background-position:-274px -2px
+}
+.icon-city-default {
+	background-position:-272px -138px
+}
+ @media only screen and (min-width:768px) and (max-width:1023px) {
+/*.sprite-city {
+width:80px;
+height:80px;
+}*/
+ .icon-city-bangalore {
+background-position:-8px -8px
+}
+.icon-city-chennai {
+background-position:-99px -8px
+}
+.icon-city-mumbai {
+background-position:-99px -106px
+}
+.icon-city-new-delhi {
+background-position:-8px -106px
+}
+.icon-city-other, .icon-city-default {
+background-position:-190px -3px
+}
+}
+ @media only screen and (max-width:767px) {
+.sprite-city {
+/* width:70px;
+height:70px; */
+}
+.news-tagger-city { width:100%; }
+.col-sm-4  { 
+  /*100% !important;*/
+}
+
+ .icon-city-bangalore {
+background-position:-5px -5px
+}
+.icon-city-chennai {
+background-position:-75px -5px
+}
+.icon-city-mumbai {
+background-position:-215px 0
+}
+.icon-city-new-delhi {
+background-position:-145px 0
+}
+.icon-city-other, .icon-city-default {
+background-position:-285px -5px
+}
+}
+.sprite-ex-cards {
+	background-image:url(https://cdn3.bankbazaar.com/images/landing_page/sprite-ex-cc.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:132px;
+	height:132px;
+	background-position:0 150px;
+	vertical-align:middle
+}
+.icon-cc-12 {
+	background-position:-2px -2px
+}
+.icon-cc-2 {
+	background-position:-138px -2px
+}
+.icon-cc-39 {
+	background-position:-2px -138px
+}
+.icon-cc-57 {
+	background-position:-138px -138px
+}
+.icon-cc-92 {
+	background-position:-274px -2px
+}
+.icon-cc-96 {
+	background-position:-274px -138px
+}
+.icon-cc-999 {
+	background-position:-2px -274px
+}
+.icon-nocards {
+	background-position:-138px -274px
+}
+@media only screen and (max-width:767px) {
+.sprite-ex-cards {
+background-image:url(https://cdn1.bankbazaar.com/images/mobile/landing_page/sprite-ex-cc.png);
+width:60px;
+height:60px;
+border-radius:60px
+}
+.icon-cc-12 {
+background-position:-2px -2px
+}
+.icon-cc-2 {
+background-position:-66px -2px
+}
+.icon-cc-39 {
+background-position:-2px -66px
+}
+.icon-cc-57 {
+background-position:-66px -66px
+}
+.icon-cc-92 {
+background-position:-130px -2px
+}
+.icon-cc-96 {
+background-position:-130px -66px
+}
+.icon-cc-999 {
+background-position:-2px -130px
+}
+.icon-nocards {
+background-position:-66px -130px
+}
+}
+.sprite-purpose {
+	background-image:url(https://cdn1.bankbazaar.com/images/landing_page/sprite-purpose.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:108px;
+	height:108px;
+	background-position:0 150px;
+	vertical-align:middle
+}
+.icon-purpose1 {
+	background-position:0 0
+}
+.icon-purpose2 {
+	background-position:-108px 0
+}
+.icon-purpose3 {
+	background-position:-216px 0
+}
+@media only screen and (max-width:767px) {
+.sprite-purpose {
+background-image:url(https://cdn4.bankbazaar.com/images/mobile/landing_page/sprite-purpose.png);
+width:60px;
+height:60px
+}
+.icon-purpose1 {
+background-position:0 0
+}
+.icon-purpose2 {
+background-position:-60px 0
+}
+.icon-purpose3 {
+background-position:-120px 0
+}
+}
+.sprite-employment {
+	background-image:url(https://cdn5.bankbazaar.com/images/landing_page/sprite-employment.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:108px;
+	height:108px;
+	background-position:0 150px;
+	vertical-align:middle
+}
+.icon-employment1, .icon-tli_salaried {
+	background-position:0 0
+}
+.icon-employment2 {
+	background-position:-108px 0
+}
+.icon-employment3, .icon-tli_self_employed_business {
+	background-position:-216px 0
+}
+.icon-employment4, .icon-tli_self_employed_professional {
+	background-position:-324px 0
+}
+.icon-employment5, .icon-tli_student {
+	background-position:-432px 0
+}
+.icon-employment6, .icon-tli_retired {
+	background-position:-540px 0
+}
+.icon-employment7, .icon-tli_homemaker {
+	background-position:-648px 0
+}
+@media only screen and (max-width:767px) {
+.sprite-employment {
+background-image:url(https://cdn1.bankbazaar.com/images/mobile/landing_page/sprite-employment.png);
+width:60px;
+height:60px
+}
+.icon-employment1 {
+background-position:0 0
+}
+.icon-employment2 {
+background-position:-60px 0
+}
+.icon-employment3, .icon-tli_self_employed_business {
+background-position:-120px 0
+}
+.icon-employment4, .icon-tli_self_employed_professional {
+background-position:-180px 0
+}
+.icon-employment5, .icon-tli_student {
+background-position:-240px 0
+}
+.icon-employment6, .icon-tli_retired {
+background-position:-300px 0
+}
+.icon-employment7, .icon-tli_homemaker {
+background-position:-360px 0
+}
+}
+.sprite-property {
+	background-image:url(https://cdn2.bankbazaar.com/images/landing_page/sprite-property.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:108px;
+	height:101px;
+	background-position:0 150px;
+	vertical-align:middle
+}
+.icon-property-details1 {
+	background-position:0 0
+}
+.icon-property-details2 {
+	background-position:-108px 0
+}
+.icon-property-details3 {
+	background-position:-216px 0
+}
+.icon-property-details4 {
+	background-position:-324px 0
+}
+.icon-property-details5 {
+	background-position:-432px 0
+}
+@media only screen and (max-width:767px) {
+.sprite-property {
+background-image:url(https://cdn3.bankbazaar.com/images/mobile/landing_page/sprite-property.png);
+width:60px;
+height:56px
+}
+.icon-property-details1 {
+background-position:0 0
+}
+.icon-property-details2 {
+background-position:-60px 0
+}
+.icon-property-details3 {
+background-position:-120px 0
+}
+.icon-property-details4 {
+background-position:-180px 0
+}
+.icon-property-details5 {
+background-position:-240px 0
+}
+}
+.sprite-cartype {
+	background-image:url(https://cdn3.bankbazaar.com/images/mobile/landing_page/sprite-cartype.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:91px;
+	height:91px;
+	background-position:0 150px
+}
+.icon-new-car {
+	background-position:-2px -2px
+}
+.icon-used-car {
+	background-position:-97px -2px
+}
+.sprite-co-applicant {
+	background-image:url(https://cdn1.bankbazaar.com/images/landing_page/sprite-co-applicant.png);
+	width:148px;
+	height:188px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	background-position:0 150px
+}
+.co-applicant {
+	background-position:-5px -5px
+}
+.co-applicant-own-female {
+	background-position:-163px -5px
+}
+.co-applicant-own-male {
+	background-position:-321px -5px
+}
+.gender-both {
+	background-position:-479px -5px;
+	width:141px;
+	height:251px
+}
+@media only screen and (max-width:767px) {
+.sprite-co-applicant {
+background-image:url(https://cdn5.bankbazaar.com/images/mobile/landing_page/sprite-co-applicant.png);
+width:60px;
+height:76px
+}
+.co-applicant {
+background-position:-5px -5px
+}
+.co-applicant-own-female {
+background-position:-75px -5px
+}
+.co-applicant-own-male {
+background-position:-145px -5px
+}
+.gender-both {
+background-position:-215px -5px;
+width:67px;
+height:119px
+}
+}
+.sprite-limit-transaction {
+	background-image:url(https://cdn4.bankbazaar.com/images/landing_page/sprite-limit-transaction.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:148px;
+	height:148px;
+	background-position:0 150px;
+	vertical-align:middle
+}
+.icon-transaction-1 {
+	background-position:-5px -5px
+}
+.icon-transaction-2 {
+	background-position:-163px -5px
+}
+@media only screen and (max-width:767px) {
+.sprite-limit-transaction {
+background-image:url(https://cdn5.bankbazaar.com/images/mobile/landing_page/sprite-limit-transaction.png);
+width:60px;
+height:60px;
+display:inline-block!important
+}
+.icon-transaction-1 {
+background-position:-145px -5px
+}
+.icon-transaction-2 {
+background-position:-215px -5px
+}
+}
+.sprite-land {
+	background-image:url(https://cdn5.bankbazaar.com/images/mobile/landing_page/sprite-limit-transaction.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:60px;
+	height:60px;
+	background-position:0 150px
+}
+.icon-city-limits1 {
+	background-position:-5px -5px
+}
+.icon-city-limits2 {
+	background-position:-75px -5px
+}
+.sprite-preferred-car {
+	background-image:url(https://cdn5.bankbazaar.com/images/landing_page/sprite-preferred-car.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:100px;
+	height:100px;
+	background-position:-106px -210px
+}
+.HONDA-AMAZE_round {
+	background-position:-2px -2px
+}
+.HYUNDAI-EON_round {
+	background-position:-106px -2px
+}
+.HYUNDAI-GRAND-I10_round {
+	background-position:-2px -106px
+}
+.MARUTI-SUZUKI-ALTO_round {
+	background-position:-106px -106px
+}
+.MARUTI-SUZUKI-CELERIO_round {
+	background-position:-210px -2px
+}
+.MARUTI-SUZUKI-SWIFT_round {
+	background-position:-210px -106px
+}
+.MARUTI-SUZUKI-WAGON-R_round {
+	background-position:-2px -210px
+}
+.other-car_round, .other-car-default {
+	background-position:-106px -210px
+}
+@media only screen and (max-width:767px) {
+.sprite-preferred-car {
+background-image:url(https://cdn3.bankbazaar.com/images/mobile/landing_page/sprite-preferred-car.png);
+width:60px;
+height:60px;
+background-position:-66px -130px
+}
+.HONDA-AMAZE_round {
+background-position:-2px -2px
+}
+.HYUNDAI-EON_round {
+background-position:-66px -2px
+}
+.HYUNDAI-GRAND-I10_round {
+background-position:-2px -66px
+}
+.MARUTI-SUZUKI-ALTO_round {
+background-position:-66px -66px
+}
+.MARUTI-SUZUKI-CELERIO_round {
+background-position:-130px -2px
+}
+.MARUTI-SUZUKI-SWIFT_round {
+background-position:-130px -66px
+}
+.MARUTI-SUZUKI-WAGON-R_round {
+background-position:-2px -130px
+}
+.other-car_round, .other-car-default {
+background-position:-66px -130px
+}
+}
+.sprite-property-list {
+	background-image:url(https://cdn5.bankbazaar.com/images/landing_page/sprite-property-list.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:120px;
+	height:143px;
+	vertical-align:middle;
+	background-position:-5px -5px
+}
+.icon-pp-other, .icon-pp-default {
+	background-position:-5px -5px
+}
+.icon-pp-bangalore {
+	background-position:-135px -5px
+}
+.icon-pp-chennai {
+	background-position:-265px -5px
+}
+.icon-pp-mumbai {
+	background-position:-395px -5px
+}
+.icon-pp-new-delhi {
+	background-position:-525px -5px
+}
+@media only screen and (min-width:768px) and (max-width:1023px) {
+.sprite-property-list {
+background-image:url(https://cdn2.bankbazaar.com/images/mobile/landing_page/sprite-property-list.png);
+width:60px;
+height:72px;
+background-position:0 0
+}
+.icon-pp-other, .icon-pp-default {
+background-position:0 0
+}
+.icon-pp-bangalore {
+background-position:-60px 0
+}
+.icon-pp-chennai {
+background-position:-120px 0
+}
+.icon-pp-mumbai {
+background-position:-180px 0
+}
+.icon-pp-new-delhi {
+background-position:-240px 0
+}
+}
+@media only screen and (max-width:767px) {
+.sprite-property-list {
+background-image:url(https://cdn2.bankbazaar.com/images/mobile/landing_page/sprite-city.png);
+display:block;
+width:60px;
+height:70px;
+background-position:-285px -5px;
+margin:0 auto;
+vertical-align:inherit
+}
+.icon-pp-bangalore {
+background-position:-5px -5px
+}
+.icon-pp-chennai {
+background-position:-75px -5px
+}
+.icon-pp-mumbai {
+background-position:-215px 0
+}
+.icon-pp-new-delhi {
+background-position:-145px 0
+}
+.icon-pp-other, .icon-pp-default {
+background-position:-285px -5px
+}
+.complete-eligibility-form .city-property-slide .right-arrow-box .arrow {
+display:none
+}
+}
+.sprite-loan {
+	background-image:url(https://cdn5.bankbazaar.com/images/landing_page/sprite-loan.png);
+	background-position:0 150px;
+	width:108px;
+	height:108px;
+	background-repeat:no-repeat;
+	display:inline-block!important;
+	vertical-align:middle
+}
+.icon-loan-business {
+	background-position:0 0
+}
+.icon-loan-buying-car-bike {
+	background-position:-118px 0
+}
+.icon-loan-higher-education {
+	background-position:-236px 0
+}
+.icon-loan-home-renovation {
+	background-position:-354px 0
+}
+.icon-loan-marriage {
+	background-position:-472px 0
+}
+.icon-loan-medical-emergency {
+	background-position:-590px 0
+}
+.icon-loan-other {
+	background-position:-708px 0
+}
+.sprite-eligslider {
+	background-image:url(https://cdn1.bankbazaar.com/images/landing_page/sprite-landingpage.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block
+}
+.icon-email {
+	background-position:-92px -78px;
+	width:29px;
+	height:28px
+}
+.icon-mobile {
+	background-position:-136px -4px;
+	width:29px;
+	height:28px
+}
+.icon-name {
+	background-position:-136px -42px;
+	width:29px;
+	height:28px
+}
+.rupee_icon_big_white {
+	background-position:-140px -84px;
+	width:17px;
+	height:19px;
+	vertical-align:middle
+}
+.icon-by-city {
+	background-position:-92px -49px;
+	width:20px;
+	height:20px;
+	vertical-align:middle
+}
+.icon-by-car {
+	background-position:-54px -108px;
+	width:32px;
+	height:30px
+}
+.icon-by-bilder {
+	background-position:-93px -114px;
+	width:33px;
+	height:21px;
+	vertical-align:middle
+}
+.icon-by-bank {
+	background-position:-2px -116px;
+	width:20px;
+	height:20px
+}
+.rupee_icon_small_black {
+	background-position:-30px -123px;
+	width:16px;
+	height:14px;
+	vertical-align:middle
+}
+.eslider-block {
+	display:inline-block
+}
+.eval-block {
+	display:block
+}
+.sprite-seller {
+	background-image:url(https://cdn3.bankbazaar.com/images/landing_page/sprite-seller.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	vertical-align:middle
+}
+.icon-seller1 {
+	background-position:-3px 0;
+	height:66px;
+	margin-top:20px;
+	width:66px;
+	margin-left:-26px
+}
+.icon-seller2 {
+	background-position:-75px 0;
+	height:73px;
+	margin-left:26px;
+	margin-top:7px;
+	width:56px
+}
+.icon-seller3 {
+	background-position:-138px 0;
+	width:59px;
+	height:50px;
+	margin-top:9px
+}
+.sprite-relation {
+	background-image:url(https://cdn3.bankbazaar.com/images/landing_page/sprite-relation.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	vertical-align:middle
+}
+.icon-relation1 {
+	background-position:-10px -10px;
+	width:35px;
+	height:76px
+}
+.icon-relation2 {
+	background-position:-60px -10px;
+	width:32px;
+	height:80px
+}
+.icon-relation3 {
+	background-position:-186px -10px;
+	width:54px;
+	height:51px
+}
+.icon-relation4 {
+	background-position:-110px -10px;
+	width:66px;
+	height:75px
+}
+.sprite-tobacco {
+	background-image:url(https://cdn3.bankbazaar.com/images/landing_page/sprite-tobacco.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+	width:71px;
+	height:251px
+}
+.icon-gender-nonsmoke-Female {
+	background-position:-5px -5px
+}
+.icon-gender-nonsmoke-Male {
+	background-position:-86px -5px
+}
+.icon-gender-smoke-Female {
+	background-position:-166px -5px
+}
+.icon-gender-smoke-Male {
+	background-position:-239px -5px
+}
+@media only screen and (max-width:767px) {
+.sprite-tobacco {
+background-image:url(https://cdn1.bankbazaar.com/images/mobile/landing_page/sprite-tobacco.png);
+width:34px;
+height:120px!important
+}
+.icon-gender-nonsmoke-Female {
+background-position:-5px -5px
+}
+.icon-gender-nonsmoke-Male {
+background-position:-49px -5px
+}
+.icon-gender-smoke-Female {
+background-position:-92px -5px
+}
+.icon-gender-smoke-Male {
+background-position:-132px -5px
+}
+}
+@media only screen and (min-width:768px) {
+.sprite-members {
+background-image:url(https://cdn3.bankbazaar.com/images/landing_page/sprite-members.png);
+background-position:0 150px;
+background-repeat:no-repeat;
+display:inline-block;
+vertical-align:middle;
+width:108px;
+height:108px
+}
+.icon-mem-adult {
+background-position:-5px -5px
+}
+.icon-mem-child {
+background-position:-123px -5px
+}
+}
+.sprite-car-status {
+	background-image:url(https://cdn5.bankbazaar.com/images/landing_page/sprite-car-status.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+	width:265px;
+	height:131px
+}
+.newcar_insurs {
+	background-position:-5px -5px
+}
+.renewexiscar_insurs {
+	background-position:-280px -5px
+}
+@media only screen and (max-width:767px) {
+.sprite-car-status {
+background-image:url(https://cdn4.bankbazaar.com/images/mobile/landing_page/sprite-car-status.png);
+width:108px;
+height:53px
+}
+.newcar_insurs {
+background-position:-5px -5px
+}
+.renewexiscar_insurs {
+background-position:-123px -5px
+}
+}
+.sprite-fuel {
+	background-image:url(https://cdn4.bankbazaar.com/images/landing_page/sprite-fuel.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:155px;
+	height:155px;
+	vertical-align:middle
+}
+.fuel-diesel {
+	background-position:-5px -5px
+}
+.fuel-lpg-cng-company-fitted {
+	background-position:-170px -5px
+}
+.fuel-lpg-cng-externally-fitted {
+	background-position:-5px -170px
+}
+.fuel-petrol {
+	background-position:-170px -170px
+}
+@media only screen and (max-width:767px) {
+.sprite-fuel {
+background-image:url(https://cdn2.bankbazaar.com/images/mobile/landing_page/sprite-fuel.png);
+width:80px;
+height:80px
+}
+.fuel-diesel {
+background-position:-5px -5px
+}
+.fuel-lpg-cng-company-fitted {
+background-position:-95px -5px
+}
+.fuel-lpg-cng-externally-fitted {
+background-position:-5px -95px
+}
+.fuel-petrol {
+background-position:-95px -95px
+}
+}
+.sprite-policy {
+	background-image:url(https://cdn1.bankbazaar.com/images/landing_page/sprite-policy.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:100px;
+	height:110px;
+	vertical-align:middle
+}
+.policy_expired {
+	background-position:-5px -5px
+}
+.policy_fifteen {
+	background-position:-115px -5px
+}
+.policy_fourtyfive {
+	background-position:-225px -5px
+}
+.policy_today {
+	background-position:-335px -5px
+}
+@media only screen and (max-width:767px) {
+.sprite-policy {
+background-image:url(https://cdn2.bankbazaar.com/images/mobile/landing_page/sprite-policy.png);
+width:80px;
+height:88px
+}
+.policy_expired {
+background-position:-5px -5px
+}
+.policy_fifteen {
+background-position:-95px -5px
+}
+.policy_fourtyfive {
+background-position:-185px -5px
+}
+.policy_today {
+background-position:-275px -5px
+}
+}
+.sprite-epolicy {
+	background-image:url(https://cdn4.bankbazaar.com/images/landing_page/sprite-epolicy.png);
+	background-position:0 150px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:265px;
+	height:99px;
+	vertical-align:middle
+}
+.policy_no {
+	background-position:-5px -5px
+}
+.policy_yes {
+	background-position:-280px -5px
+}
+@media only screen and (max-width:767px) {
+.sprite-epolicy {
+background-image:url(https://cdn2.bankbazaar.com/images/mobile/landing_page/sprite-epolicy.png);
+width:108px;
+height:40px
+}
+.policy_no {
+background-position:-5px -5px
+}
+.policy_yes {
+background-position:-123px -5px
+}
+}
+.carousel {
+	position:relative
+}
+.carousel-inner {
+	position:relative;
+	width:100%;
+	overflow:hidden
+}
+.carousel-inner>.item {
+	position:relative;
+	display:none;
+-webkit-transition:.6s ease-in-out left;
+transition:.6s ease-in-out left;
+	background: #FFFFFF;
+}
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	display:block;
+	max-width:100%;
+	height:auto;
+	line-height:1
+}
+.carousel-inner>.active, .carousel-inner>.next, .carousel-inner>.prev {
+	display:block
+}
+.carousel-inner>.active {
+	left:0
+}
+.carousel-inner>.next, .carousel-inner>.prev {
+	position:absolute;
+	top:0;
+	width:100%
+}
+.carousel-inner>.next {
+	left:100%
+}
+.carousel-inner>.prev {
+	left:-100%
+}
+.carousel-inner>.next.left, .carousel-inner>.prev.right {
+	left:0
+}
+.carousel-inner>.active.left {
+	left:-100%
+}
+.carousel-inner>.active.right {
+	left:100%
+}
+.carousel-control {
+	position:absolute;
+	top:312px !important;
+	bottom:0;
+	left:0;
+	width:3% !important;
+	font-size:20px;
+	color:#fff;
+	text-align:center;
+	text-shadow:0 1px 2px rgba(0, 0, 0, .6);
+	filter:alpha(opacity=50);
+	opacity:.5;
+	background: #000;
+	height: 36px;
+	background:#000;
+}
+.carousel-control.left {
+	left: 6px;
+}
+.carousel-control.right {
+	right:6px !important;
+}
+.carousel-control:hover, .carousel-control:focus {
+	color:#fff;
+	text-decoration:none;
+	filter:alpha(opacity=90);
+	outline:0;
+	opacity:.9
+}
+.carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right {
+	position:absolute;
+	top:50%;
+	z-index:5;
+	display:inline-block
+}
+.carousel-control .icon-prev, .carousel-control .glyphicon-chevron-left {
+	left:50%
+}
+.carousel-control .icon-next, .carousel-control .glyphicon-chevron-right {
+	right:50%
+}
+.carousel-control .icon-prev, .carousel-control .icon-next {
+	width:20px;
+	height:20px;
+	margin-top:-10px;
+	margin-left:-10px;
+	font-family:serif
+}
+.carousel-control .icon-prev:before {
+	content:'\2039'
+}
+.carousel-control .icon-next:before {
+	content:'\203a'
+}
+.carousel-indicators {
+	position:absolute;
+	bottom:10px;
+	left:50%;
+	z-index:15;
+	width:60%;
+	padding-left:0;
+	margin-left:-30%;
+	text-align:center;
+	list-style:none
+}
+.carousel-indicators li {
+	display:inline-block;
+	width:10px;
+	height:10px;
+	margin:1px;
+	text-indent:-999px;
+	cursor:pointer;
+	background-color:#000 \9;
+	background-color:rgba(0, 0, 0, 0);
+	border:1px solid #fff;
+	border-radius:10px
+}
+.carousel-indicators .active {
+	width:12px;
+	height:12px;
+	margin:0;
+	background-color:#fff
+}
+.carousel-caption {
+	position:absolute;
+	right:15%;
+	bottom:20px;
+	left:15%;
+	z-index:10;
+	padding-top:20px;
+	padding-bottom:20px;
+	color:#fff;
+	text-align:center;
+	text-shadow:0 1px 2px rgba(0, 0, 0, .6)
+}
+.carousel-caption .btn {
+	text-shadow:none
+}
+@media screen and (min-width:768px) {
+.carousel-control .glyphicons-chevron-left, .carousel-control .glyphicons-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next {
+width:30px;
+height:30px;
+margin-top:-15px;
+margin-left:-15px;
+font-size:30px
+}
+.carousel-caption {
+right:20%;
+left:20%;
+padding-bottom:30px
+}
+.carousel-indicators {
+bottom:20px
+}
+}

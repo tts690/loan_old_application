@@ -1,0 +1,241 @@
+/* Add here all your CSS customizations */
+@media only screen and (min-width: 992px) and (max-width: 1440px){
+    header h1.logo img {
+        margin-left:-3px !important;
+    }
+    .finalfield .ns-fixed-height .loan-select{
+        min-height:252px !important;
+    }
+    .left-side {
+        margin-bottom: 4px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1024px){
+    .home-loans{
+        width:40.333333% !important;
+    }
+    .home-loans-description{
+        width:58.666% !important;
+    }
+    .personal-loans-description{
+        width:65% !important;
+    }
+    .personal-loans{
+        width:30% !important;
+    }
+    .left-side{
+        margin-bottom:4px;
+    }
+    .footer-ribon{
+        margin: -347px 0 0 22px !important;   
+    }
+    header nav ul.nav-main li a{
+        margin-right: 4px !important;
+    }
+    .ftop h2:before{
+        left:34px !important;
+    }
+    header nav ul.nav-main {
+	margin: -30px 20px 8px 0;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    .personal-loans{
+        margin-top:20px;
+    }
+    .home-loans{
+        text-align:center !important;
+    }
+    .desktop-view{
+        display:none;
+    }
+    .personal-loans-description{
+        margin-bottom:60px!important;
+    }
+    hr.tall {
+        margin:5px 0 5px 0;
+    }   
+    h1 {
+        font-size: 1.5em !important;
+    }    
+}
+@media only screen and (min-width: 580px) and (max-width: 767px){
+    .home-page-content .icons{
+        width:80%;
+        margin:auto;
+    }
+    .label.styled{
+        width: 50%;
+    }
+    .copyrightlink ul{
+        float: left;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 768px){
+    .home-menu, .company-menu, .disclaimer{
+        display:none;
+    }
+    .home-page-content{
+        margin-bottom:20px;
+    }
+    .sidebar {
+        padding:0 !important;
+    }
+    .personal-loans-description .cr{
+        float:left !important;
+        margin-bottom:30px !important;
+    }
+    .intrest-rates-form, .content_cuv, .eligibility_cal_bg, .intrest-rates, .draft-aggrement{
+        margin-bottom:20px !important;
+    }
+    .panel panel-primary{
+        margin:auto;
+        width:96%;
+    }
+    .home-page-content h1{
+        margin:0 0 10px 0 !important;
+    }
+    #main{
+        display:none;
+    }
+    .home-page-content {
+        padding: 20px 0px !important;
+    }   
+    .rit, .ftop h2{
+        float: none !important;
+    }
+    .ftop h2:before{
+        left: -10px !important;
+    }
+    .home-page-content .icons{
+        display:none;
+    }
+    h1 {
+        font-size: 1.8em !important;
+    }
+    .loginheader{
+        display: none;
+    }
+    .rquery{
+        border-left:0px;
+    }
+    .inner-content{
+        margin-top: 20px;
+    margin-bottom: 20px;
+    }
+    .footer-menu .col-md-3{
+        margin-bottom: 10px;
+    }
+    section.page-top ul.breadcrumb {
+    line-height: 3 !important;
+    }
+    .modal-content {
+       width: 80%; 
+    }
+    #register-form-link{
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (min-width: 769px) and (max-width: 900px){
+    .intrest-rates-form .col-md-3{
+        width:33.333% !important;
+    }
+    .align_right{
+        text-align:right !important;
+    }
+    .home-page-content .icons{
+        display:none;
+    }
+   
+}
+@media only screen and (min-width: 768px) and (max-width: 1440px){
+    .mobile-view{
+        display:none !important;	
+    }
+    hr.tall {
+        margin: 15px 0 15px 0;
+    }	
+    .modal-products {
+        display: -ms-flex;
+        display: -webkit-flex;
+        display: flex;
+        width:100%;
+    }   
+    .form-style-3 .dsalogin span{
+        float: left;} 
+  .form-style-3  label.styled{
+        width: 50%;
+    }   
+    .copyrightlink ul{
+        float: left;
+    }
+    .copyrightlink p{
+        float:right;
+    }
+   .faq-grid .modal-content{
+        width: 40%;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 640px){     
+    #mobnu{
+        top:51px !important;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 900px){
+    .main{
+        margin-top: 65px;
+    }   
+    #mobnu{
+        top:56px !important;
+    }
+    .whatsap{
+        line-height: 3;
+    }
+    .right-menu i{
+    display: none;
+    }
+     .finalfield .ns-fixed-height .loan-select{
+        min-height:288px !important;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+    .main{
+        margin-top:40px;
+    }  
+    .form-style-3 label > span{
+        width: 108px !important;
+    }
+    .form-style-3 label > span, .form-style-3 input[type=text], .form-style-3 select{
+        font-size: 11px !important;   
+        line-height: 2;
+        /*width: 65%;*/
+    }
+    
+    section.page-top ul.breadcrumb > li {	
+        font-size: 9px !important;
+    }
+    #hide{
+        display: none;
+    }
+    .copyrightlink{
+        text-align: center !important;
+    }
+}
+@media only screen and (min-width: 580px) and (max-width: 640px){
+    .main{
+        margin-top:64px;
+    }  
+    .form-style-3 .dsalogin span{
+        float: left;
+    }     
+    label.styled{
+        width: 50%;
+    }  
+}
+@media only screen and (min-width: 769px) and (max-width: 992px){
+    .social-icons i{
+        padding: 6px 6px;
+        height: 30px;
+        width: 30px;
+    }
+}
